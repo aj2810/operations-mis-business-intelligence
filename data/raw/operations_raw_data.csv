@@ -1,0 +1,1013 @@
+Record_ID,Date,Team,Agent_ID,Shift,Interactions_Handled,Interactions_Resolved,SLA_Eligible,SLA_Met_Count,AHT_Minutes,Errors,Attendance,Target_Interactions,Customer_Satisfaction
+REC0001,2026-11-23,Collections,AGT029,Morning,19,17,17,15,7.6,2,Present,49,2.8
+REC0002,2026-11-03,Sales Support,AGT029,Morning,24,19,24,22,4.2,3,Present,36,3.3
+REC0003,2026-09-27,Collections,AGT022,Morning,57,47,57,50,11.6,5,Absent,44,4.3
+REC0004,2026-10-15,Technical Support,AGT027,Afternoon,29,27,28,27,10.8,1,Present,40,4.0
+REC0005,2026-11-07,Customer Service,AGT019,Morning,23,18,18,16,13.4,2,Present,45,3.0
+REC0006,2026-11-21,Collections,AGT018,Afternoon,47,42,44,37,10.2,0,Present,50,3.3
+REC0007,2026-10-29,Customer Service,AGT030,Night,55,44,53,45,13.8,0,Present,47,2.9
+REC0008,2026-11-15,Customer Service,AGT022,Morning,32,30,27,25,13.9,0,Present,47,3.9
+REC0009,2026-09-27,Technical Support,AGT009,Afternoon,53,43,51,50,6.2,0,Present,40,4.3
+REC0010,2026-10-30,Customer Service,AGT009,Morning,44,36,39,35,7.4,3,Present,48,3.0
+REC0011,2026-11-17,Customer Service,AGT018,Afternoon,45,39,44,41,4.5,2,Present,39,3.5
+REC0012,2026-10-30,Sales Support,AGT008,Morning,60,48,59,55,5.1,7,Present,43,2.8
+REC0013,2026-10-19,Technical Support,AGT026,Morning,65,62,61,58,4.3,7,Present,37,3.7
+REC0014,2026-10-12,Sales Support,AGT020,Night,52,48,48,44,7.0,0,Present,36,4.7
+REC0015,2026-10-26,Sales Support,AGT025,Morning,61,53,59,51,7.2,5,Present,43,4.9
+REC0016,2026-10-16,Customer Service,AGT013,Morning,44,42,44,40,9.5,2,Present,37,3.6
+REC0017,2026-11-21,Collections,AGT028,Morning,50,43,49,44,5.2,4,Present,35,4.7
+REC0018,2026-10-11,,AGT008,Night,58,51,56,54,6.8,5,Present,37,3.2
+REC0019,2026-10-27,Sales Support,AGT020,Night,41,34,36,33,11.0,4,Present,38,4.8
+REC0020,2026-10-06,Technical Support,AGT005,Night,61,49,61,53,13.0,4,Present,36,4.6
+REC0021,2026-11-02,Technical Support,AGT011,Morning,26,22,22,21,6.1,3,Late,42,4.0
+REC0022,2026-11-18,Sales Support,AGT022,Afternoon,52,47,52,48,11.4,3,Present,39,3.6
+REC0023,2026-11-13,Collections,AGT027,Morning,49,42,49,42,10.5,1,Present,48,3.7
+REC0024,2026-09-27,Collections,AGT024,Afternoon,48,45,47,46,7.7,2,Present,44,3.8
+REC0025,2026-10-06,Sales Support,AGT027,Afternoon,54,48,49,45,10.2,3,Present,40,4.8
+REC0026,2026-10-07,Sales Support,AGT003,Afternoon,18,15,16,14,11.4,1,Present,43,4.4
+REC0027,2026-10-04,Technical Support,AGT025,Night,50,44,45,44,8.2,5,Present,44,3.1
+REC0028,2026-09-26,Customer Service,AGT018,Night,30,29,27,23,6.8,3,Present,44,3.5
+REC0029,2026-11-11,Technical Support,AGT008,Night,54,51,53,45,10.9,1,Present,38,4.3
+REC0030,2026-10-14,Collections,AGT004,Night,23,22,18,17,13.6,0,Present,43,4.0
+REC0031,2026-10-21,Technical Support,AGT029,Morning,65,59,65,54,12.2,2,Present,50,2.9
+REC0032,2026-11-06,Customer Service,AGT009,Morning,56,53,51,47,9.7,0,Present,39,3.1
+REC0033,2026-09-25,Collections,AGT021,Night,50,45,48,39,9.0,3,Present,36,4.6
+REC0034,2026-10-08,Collections,AGT026,Morning,27,22,26,24,5.1,3,Present,41,4.6
+REC0035,2026-10-28,Customer Service,AGT027,Morning,35,32,30,29,11.2,1,Present,48,3.6
+REC0036,2026-10-08,Sales Support,AGT011,Morning,63,52,60,56,8.3,3,Present,42,3.5
+REC0037,2026-10-31,Technical Support,AGT025,Morning,65,62,60,55,10.4,0,Present,36,3.2
+REC0038,2026-11-20,Collections,AGT012,Night,31,27,31,27,4.9,3,Present,38,3.7
+REC0039,2026-11-06,Sales Support,AGT013,Night,64,50,63,61,13.4,0,Present,45,4.3
+REC0040,2026-10-01,Collections,AGT013,Night,62,50,59,50,6.7,6,Present,40,4.1
+REC0041,2026-10-20,Collections,AGT024,Morning,18,17,15,14,12.8,1,Present,36,4.5
+REC0042,2026-11-06,Technical Support,AGT009,Morning,25,20,24,21,13.9,3,Present,42,4.1
+REC0043,2026-11-16,Collections,AGT009,Morning,31,28,30,30,5.5,2,Present,48,3.5
+REC0044,2026-10-29,Customer Service,AGT019,Afternoon,65,51,63,61,9.9,1,Present,39,3.1
+REC0045,2026-10-02,Sales Support,AGT010,Morning,40,33,40,35,,5,Present,41,4.7
+REC0046,2026-11-12,Sales Support,AGT029,Night,65,58,64,53,10.5,2,Present,36,4.6
+REC0047,2026-10-29,Sales Support,AGT021,Night,20,16,15,14,13.1,2,Present,42,4.0
+REC0048,2026-10-04,Customer Service,AGT023,Morning,35,33,34,29,7.1,3,Present,35,4.6
+REC0049,2026-10-11,Sales Support,AGT017,Afternoon,29,28,27,24,6.0,1,Present,35,4.7
+REC0050,2026-10-02,Collections,AGT006,Afternoon,32,26,27,25,6.9,1,Present,40,3.7
+REC0051,2026-10-07,Technical Support,AGT026,Night,31,25,26,21,7.7,4,Present,48,4.3
+REC0052,2026-10-31,Sales Support,AGT029,Night,23,22,19,16,11.7,1,Present,36,3.2
+REC0053,2026-09-30,Customer Service,AGT005,Morning,62,59,61,53,8.9,0,Present,40,2.8
+REC0054,2026-10-27,Sales Support,AGT028,Morning,54,46,51,47,10.6,2,Present,40,3.9
+REC0055,2026-09-30,Customer Service,AGT026,Afternoon,62,59,62,61,10.2,4,Present,42,3.7
+REC0056,2026-11-05,Technical Support,AGT002,Morning,38,33,37,33,8.1,1,Present,40,3.3
+REC0057,2026-10-22,Technical Support,AGT018,Morning,46,41,41,37,4.8,6,Present,42,2.9
+REC0058,2026-11-15,Customer Service,AGT018,Night,42,33,42,41,9.2,1,Present,39,4.7
+REC0059,2026-11-13,Customer Service,AGT027,Afternoon,65,60,63,53,11.3,0,Present,48,3.3
+REC0060,2026-10-08,Collections,AGT005,Afternoon,19,17,18,17,8.8,0,Present,49,4.5
+REC0061,2026-10-23,Technical Support,AGT004,Afternoon,40,36,39,38,7.4,1,Present,40,4.3
+REC0062,2026-10-16,Customer Service,AGT001,Afternoon,54,49,51,49,10.2,1,Present,36,4.9
+REC0063,2026-09-28,Collections,AGT003,Morning,22,20,18,16,5.1,1,Present,38,3.3
+REC0064,2026-10-16,Customer Service,AGT019,Morning,47,38,44,42,5.1,5,Present,42,3.2
+REC0065,2026-11-10,Sales Support,AGT018,Night,35,31,34,33,10.8,3,Present,47,4.1
+REC0066,2026-10-21,Collections,AGT028,Morning,43,34,38,35,12.0,4,Present,37,2.8
+REC0067,2026-11-19,Customer Service,AGT001,Afternoon,26,25,26,23,7.1,2,Present,43,4.3
+REC0068,2026-11-12,Customer Service,AGT023,Afternoon,27,25,24,21,5.3,3,Present,46,4.8
+REC0069,2026-10-19,Sales Support,AGT021,Night,22,21,22,22,11.5,1,Present,35,3.8
+REC0070,2026-09-30,Customer Service,AGT019,Morning,27,25,26,23,5.1,1,Present,38,3.9
+REC0071,2026-11-15,Sales Support,AGT016,Mornng,65,51,61,57,7.6,1,Present,48,4.3
+REC0072,2026-10-04,Technical Support,AGT012,Night,20,19,20,17,13.5,2,Present,38,4.8
+REC0073,2026-11-10,Customer Service,AGT030,Night,40,33,39,36,13.8,2,Present,42,4.6
+REC0074,2026-10-18,Technical Support,AGT008,Afternoon,42,33,42,40,6.2,0,Present,49,4.3
+REC0075,2026-10-29,Customer Service,AGT017,Afternoon,45,38,45,40,4.7,1,Present,36,4.0
+REC0076,2026-10-02,Sales Support,AGT017,Afternoon,31,25,27,23,5.0,4,Present,50,5.0
+REC0077,2026-11-15,Technical Support,AGT004,Morning,46,38,44,41,7.6,4,Present,46,4.7
+REC0078,2026-09-27,Customer Service,AGT025,Night,43,37,43,36,13.4,4,Present,36,4.6
+REC0079,2026-10-29,Sales Support,AGT011,Morning,54,51,50,47,8.7,0,Present,44,4.7
+REC0080,2026-10-26,Sales Support,AGT012,Afternoon,19,18,14,12,6.3,2,Present,37,2.9
+REC0081,2026-11-23,Technical Support,AGT008,Morning,61,56,60,59,10.7,-1,Present,49,3.8
+REC0082,2026-09-28,Customer Service,AGT004,Morning,39,35,36,32,12.5,2,Present,49,2.9
+REC0083,2026-11-15,Customer Service,AGT029,Afternoon,56,48,55,53,5.4,6,Present,37,4.5
+REC0084,2026-10-21,Technical Support,AGT028,Afternoon,33,29,30,28,11.6,2,Absent,48,3.5
+REC0085,2026-10-13,Technical Support,AGT007,Afternoon,21,20,17,15,5.7,3,Present,40,2.8
+REC0086,2026-11-23,Collections,AGT027,Night,44,42,41,37,9.8,3,Present,47,3.9
+REC0087,2026-10-15,Collections,AGT012,Night,43,34,38,33,5.1,2,Present,35,4.4
+REC0088,2026-10-04,Sales Support,AGT015,Night,64,53,61,55,7.0,8,Present,37,4.5
+REC0089,2026-10-06,Customer Service,AGT026,Afternoon,48,46,44,38,13.9,6,Present,48,3.7
+REC0090,2026-11-11,Customer Service,AGT018,Afternoon,53,47,48,40,11.5,0,Present,49,4.9
+REC0091,2026-10-05,Sales Support,AGT015,Afternoon,18,16,18,15,9.4,0,Present,38,4.8
+REC0092,2026-10-01,,AGT001,Night,18,16,17,14,11.4,1,Late,43,2.9
+REC0093,2026-10-13,Sales Support,AGT014,Night,61,49,61,59,4.6,2,Present,43,3.3
+REC0094,2026-11-01,Customer Service,AGT017,Afternoon,52,50,51,50,6.9,2,Present,44,4.1
+REC0095,2026-10-11,Sales Support,AGT001,Afternoon,33,26,30,29,7.4,3,Present,44,3.5
+REC0096,2026-10-16,Collections,AGT009,Night,32,26,28,26,5.9,0,Present,41,3.3
+REC0097,2026-10-04,Sales Support,AGT020,Night,32,28,32,29,7.6,0,Present,39,3.5
+REC0098,2026-11-19,Technical Support,AGT023,Afternoon,28,22,25,22,9.5,1,Present,35,4.8
+REC0099,2026-10-06,Customer Service,AGT014,Night,57,46,53,48,4.6,6,Present,49,4.4
+REC0100,2026-10-22,Sales Support,AGT008,Afternoon,40,34,35,32,11.2,0,Present,47,4.5
+REC0101,2026-11-01,Customer Service,AGT023,Night,56,49,53,51,12.1,5,Present,42,4.3
+REC0102,2026-11-10,Technical Support,AGT003,Night,19,15,16,15,10.0,2,Present,39,3.1
+REC0103,2026-11-13,Customer Service,AGT008,Morning,47,43,42,35,6.0,5,Present,36,2.9
+REC0104,2026-10-03,Technical Support,AGT011,Night,27,25,25,24,13.1,2,Present,36,3.1
+REC0105,2026-11-13,Collections,AGT017,Afternoon,49,44,47,39,13.3,4,Present,50,4.9
+REC0106,2026-11-19,Sales Support,AGT017,Night,49,46,45,41,7.9,5,Present,39,3.5
+REC0107,2026-11-01,Collections,AGT028,Morning,63,59,60,57,8.1,6,Present,43,2.9
+REC0108,2026-09-25,Technical Support,AGT028,Morning,62,60,57,53,4.9,5,Present,49,3.6
+REC0109,2026-10-02,Collections,AGT016,Morning,18,18,17,16,13.9,0,Present,38,2.9
+REC0110,2026-09-29,Technical Support,AGT027,Night,36,35,31,31,9.1,2,Present,43,3.2
+REC0111,2026-10-31,Collections,AGT003,Night,51,40,46,39,9.9,4,Present,47,5.0
+REC0112,2026-11-02,Collections,AGT025,Afternoon,48,43,47,43,8.7,5,Present,38,3.4
+REC0113,2026-10-08,Sales Support,AGT024,Afternoon,50,46,45,44,13.4,1,Present,41,3.0
+REC0114,2026-11-07,Customer Service,AGT013,Morning,38,33,38,33,11.4,3,Present,44,4.9
+REC0115,2026-11-09,Sales Support,AGT023,Morning,40,34,36,35,12.7,1,Present,45,4.8
+REC0116,2026-09-26,Sales Support,AGT015,Afternoon,44,40,42,41,13.5,4,Present,50,4.4
+REC0117,2026-11-12,Sales Support,AGT014,Afternoon,51,46,51,45,8.5,4,Present,49,3.6
+REC0118,2026-10-15,Collections,AGT003,Afternoon,22,19,22,18,7.7,1,Present,37,4.3
+REC0119,2026-11-23,Sales Support,AGT021,Night,26,21,21,20,10.3,2,Present,39,5.0
+REC0120,2026-10-28,Collections,AGT016,Night,19,17,14,12,5.0,0,Present,44,4.8
+REC0121,2026-11-19,Collections,AGT015,Morning,45,40,44,38,5.9,3,Present,35,3.1
+REC0122,2026-10-01,Technical Support,AGT002,Night,35,28,31,27,6.5,1,Present,38,3.8
+REC0123,2026-10-28,Collections,AGT028,Morning,62,54,60,58,12.0,0,Present,45,4.6
+REC0124,2026-10-15,Technical Support,AGT025,Afternoon,19,16,18,16,7.0,0,Present,40,5.0
+REC0125,2026-10-20,Technical Support,AGT029,Night,24,21,24,23,7.1,1,Present,35,4.0
+REC0126,2026-10-14,Customer Service,AGT010,Afternoon,18,17,15,14,13.7,1,Present,43,3.7
+REC0127,2026-10-16,Collections,AGT013,Night,18,17,14,13,10.1,1,Present,44,3.8
+REC0128,2026-10-05,Customer Service,AGT017,Afternoon,24,19,21,19,10.6,0,Present,42,3.9
+REC0129,2026-11-20,Collections,AGT015,Afternoon,65,52,65,56,12.8,5,Present,46,3.1
+REC0130,2026-11-01,Sales Support,AGT014,Morning,22,17,18,17,13.3,3,Present,41,2.8
+REC0131,2026-10-21,Customer Service,AGT002,Afternoon,22,18,19,18,10.7,1,Present,38,3.8
+REC0132,2026-11-13,Technical Support,AGT007,Morning,55,52,54,52,7.4,1,Present,43,3.3
+REC0133,2026-10-20,Collections,AGT008,Afternoon,50,43,47,45,7.4,5,Present,50,3.9
+REC0134,2026-10-28,Technical Support,AGT016,Night,47,44,46,45,12.1,3,Present,37,3.5
+REC0135,2026-11-23,Technical Support,AGT002,Night,40,34,37,35,7.8,2,Present,47,3.1
+REC0136,2026-10-28,Sales Support,AGT015,Morning,58,54,54,52,9.3,4,Present,35,3.4
+REC0137,2026-10-18,Collections,AGT009,Afternoon,51,50,47,39,10.4,3,Present,37,3.6
+REC0138,2026-10-13,Customer Service,AGT010,Night,47,46,43,37,13.2,4,Present,46,4.6
+REC0139,2026-11-20,Collections,AGT004,Night,53,45,49,44,5.8,4,Present,44,3.0
+REC0140,2026-09-25,Sales Support,AGT028,Afternoon,37,32,36,35,7.5,2,Present,39,3.5
+REC0141,2026-10-13,Sales Support,AGT009,Afternoon,60,51,56,51,10.1,4,Present,35,4.2
+REC0142,2026-10-25,Customer Service,AGT014,Night,55,47,52,50,4.1,7,Present,49,2.9
+REC0143,2026-11-05,Sales Support,AGT019,Afternoon,57,49,54,48,12.9,2,Present,36,3.2
+REC0144,2026-10-04,Sales Support,AGT009,Morning,56,51,54,48,13.8,1,Present,39,3.7
+REC0145,2026-10-31,Customer Service,AGT006,Afternoon,24,19,23,22,6.0,3,Present,40,4.2
+REC0146,2026-10-06,Customer Service,AGT026,Night,53,49,49,40,6.4,2,Present,37,3.8
+REC0147,2026-11-03,Technical Support,AGT020,Afternoon,50,48,48,41,7.0,1,Present,48,4.7
+REC0148,2026-10-24,Technical Support,AGT030,Afternoon,42,36,42,35,8.8,2,Present,48,2.9
+REC0149,2026-09-25,Technical Support,AGT017,Night,40,35,37,32,11.6,3,Present,43,4.1
+REC0150,2026-11-10,Collections,AGT016,Morning,27,21,24,21,8.5,0,Present,37,4.8
+REC0151,2026-11-09,Sales Support,AGT029,Night,53,44,49,48,9.9,5,Present,48,3.0
+REC0152,2026-11-05,Sales Support,AGT030,Morning,47,40,46,39,10.8,6,Present,50,4.2
+REC0153,2026-10-13,Collections,AGT019,Night,29,28,26,25,13.5,3,Present,48,3.7
+REC0154,2026-11-08,Technical Support,AGT002,Afternoon,30,28,27,25,9.6,0,Present,36,3.2
+REC0155,2026-10-19,Collections,AGT004,Afternoon,18,17,16,13,8.1,1,Present,50,4.7
+REC0156,2026-11-15,Collections,AGT018,Morning,45,40,41,36,,1,Absent,42,4.1
+REC0157,2026-11-07,Customer Service,AGT012,Afternoon,51,44,50,44,13.5,2,Present,35,3.7
+REC0158,2026-10-29,Customer Service,AGT030,Night,64,58,62,54,7.2,4,Present,43,3.7
+REC0159,2026-11-11,Sales Support,AGT015,Night,61,58,61,57,10.0,1,Present,35,4.1
+REC0160,2026-10-30,Technical Support,AGT006,Morning,62,59,58,50,7.0,5,Present,45,4.2
+REC0161,2026-11-02,Collections,AGT011,Afternoon,34,33,32,27,13.0,1,Present,47,4.2
+REC0162,2026-10-06,Technical Support,AGT002,Afternoon,51,47,51,48,11.6,6,Present,35,3.3
+REC0163,2026-11-09,Collections,AGT007,Morning,34,32,29,28,9.9,2,Present,50,4.4
+REC0164,2026-11-05,Technical Support,AGT012,Morning,49,46,46,38,5.4,0,Present,46,3.1
+REC0165,2026-11-19,Collections,AGT010,Night,64,59,63,58,5.5,8,Present,44,3.5
+REC0166,2026-11-03,Technical Support,AGT006,Morning,34,30,30,28,9.7,4,Present,42,4.3
+REC0167,2026-11-12,Collections,AGT020,Afternoon,39,31,35,33,11.0,5,Absent,49,4.8
+REC0168,2026-10-18,Customer Service,AGT025,Morning,58,56,58,55,13.3,1,Present,49,2.9
+REC0169,2026-11-08,Collections,AGT014,Morning,38,37,37,35,12.8,4,Present,50,3.5
+REC0170,2026-10-25,Sales Support,AGT018,Night,60,53,57,54,5.5,0,Present,41,3.2
+REC0171,2026-11-16,Collections,AGT023,Afternoon,64,59,61,57,10.7,2,Present,37,3.9
+REC0172,2026-09-26,Technical Support,AGT020,Afternoon,61,48,56,52,8.0,7,Present,37,4.6
+REC0173,2026-10-05,Customer Service,AGT026,Afternoon,62,58,59,54,8.6,2,Present,49,4.8
+REC0174,2026-09-29,Technical Support,AGT002,Morning,29,25,25,21,7.3,0,Late,45,3.1
+REC0175,2026-10-14,Collections,AGT029,Night,51,43,50,46,8.7,2,Present,37,3.8
+REC0176,2026-11-21,Collections,AGT003,Afternoon,65,59,63,54,5.5,7,Present,47,2.9
+REC0177,2026-10-19,Sales Support,AGT022,Afternoon,46,40,42,41,13.0,2,Present,35,4.2
+REC0178,2026-09-30,Collections,AGT001,Afternoon,65,60,61,51,5.7,3,Present,41,3.9
+REC0179,2026-10-09,Collections,AGT004,Morning,47,43,44,42,13.2,1,Present,45,4.8
+REC0180,2026-10-24,Technical Support,AGT004,Afternoon,36,31,35,31,9.4,1,Absent,44,3.1
+REC0181,2026-11-07,Sales Support,AGT004,Mornng,22,19,17,14,10.6,3,Present,45,4.9
+REC0182,2026-10-08,Technical Support,AGT002,Afternoon,24,22,19,19,9.2,2,Absent,38,4.3
+REC0183,2026-11-21,Technical Support,AGT022,Night,57,52,52,47,11.3,1,Present,45,3.1
+REC0184,2026-10-28,Technical Support,AGT014,Morning,57,51,53,48,6.0,5,Present,39,4.6
+REC0185,2026-10-06,Customer Service,AGT002,Morning,31,29,27,23,4.5,3,Present,50,3.0
+REC0186,2026-11-14,Sales Support,AGT009,Morning,36,30,31,30,12.4,3,Present,40,4.6
+REC0187,2026-11-15,Customer Service,AGT015,Morning,19,17,15,14,12.1,2,Present,36,4.5
+REC0188,2026-11-05,Technical Support,AGT010,Afternoon,43,41,39,35,9.9,5,Present,42,3.1
+REC0189,2026-11-02,Technical Support,AGT009,Night,25,23,23,20,12.3,1,Present,36,4.2
+REC0190,2026-09-27,Sales Support,AGT010,Night,54,42,54,45,4.8,0,Present,43,4.7
+REC0191,2026-10-20,Sales Support,AGT016,Afternoon,24,19,19,16,11.5,0,Present,41,4.8
+REC0192,2026-10-14,Collections,AGT007,Afternoon,29,25,25,22,4.3,0,Present,40,3.0
+REC0193,2026-11-09,Collections,AGT014,Morning,33,27,32,31,4.7,0,Present,37,4.0
+REC0194,2026-10-04,Customer Service,AGT020,Morning,26,25,21,18,10.9,1,Present,40,2.9
+REC0195,2026-09-28,Technical Support,AGT011,Night,65,58,65,55,8.1,1,Present,47,3.5
+REC0196,2026-10-26,Technical Support,AGT016,Night,35,32,30,28,8.4,0,Present,38,3.7
+REC0197,2026-11-11,Customer Service,AGT009,Afternoon,31,24,27,23,12.7,0,Present,39,3.8
+REC0198,2026-10-31,Customer Service,AGT027,Night,31,29,26,23,4.3,2,Present,41,3.6
+REC0199,2026-10-14,Technical Support,AGT017,Afternoon,35,31,35,31,5.8,4,Present,41,5.0
+REC0200,2026-10-25,Sales Support,AGT014,Night,42,36,38,32,8.8,5,Present,44,3.7
+REC0201,2026-11-03,Customer Service,AGT028,Night,37,35,32,30,12.6,4,Present,45,3.4
+REC0202,2026-10-19,Technical Support,AGT027,Morning,33,31,32,28,4.7,0,Present,37,2.9
+REC0203,2026-10-04,Sales Support,AGT007,Night,37,36,33,31,8.0,0,Late,50,3.6
+REC0204,2026-10-22,Collections,AGT007,Night,38,35,37,32,7.8,3,Present,37,4.8
+REC0205,2026-11-05,,AGT015,Afternoon,51,46,49,47,7.3,6,Present,46,3.2
+REC0206,2026-10-24,Customer Service,AGT025,Morning,45,42,44,40,4.3,2,Present,38,4.8
+REC0207,2026-11-20,Collections,AGT009,Afternoon,64,61,64,56,11.7,0,Present,45,4.9
+REC0208,2026-11-20,Customer Service,AGT020,Morning,39,38,37,31,11.9,4,Present,50,4.7
+REC0209,2026-11-16,Collections,AGT015,Night,54,43,50,42,13.6,1,Present,36,3.3
+REC0210,2026-10-02,Collections,AGT012,Afternoon,37,31,34,30,13.1,3,Present,49,3.2
+REC0211,2026-11-13,Customer Service,AGT019,Morning,48,39,43,42,9.1,0,Present,41,3.9
+REC0212,2026-11-05,Sales Support,AGT004,Night,23,20,21,20,9.4,2,Present,44,3.9
+REC0213,2026-10-20,Technical Support,AGT029,Afternoon,29,28,26,23,5.2,3,Present,44,3.5
+REC0214,2026-10-21,Technical Support,AGT008,Night,49,47,49,46,5.3,4,Present,44,2.8
+REC0215,2026-11-22,Sales Support,AGT025,Afternoon,36,32,31,29,4.2,3,Present,44,4.9
+REC0216,2026-11-21,Customer Service,AGT012,Night,55,51,52,51,4.6,3,Present,39,4.1
+REC0217,2026-10-05,Sales Support,AGT010,Morning,53,42,50,47,12.6,3,Present,43,3.8
+REC0218,2026-10-27,Sales Support,AGT007,Night,24,19,21,18,5.1,0,Absent,42,3.2
+REC0219,2026-09-28,Technical Support,AGT008,Night,40,33,36,31,12.8,3,Present,48,4.3
+REC0220,2026-10-30,Customer Service,AGT024,Afternoon,37,32,35,29,8.5,0,Present,41,4.7
+REC0221,2026-09-29,Sales Support,AGT022,Morning,44,35,40,39,10.6,0,Present,41,3.3
+REC0222,2026-11-11,Sales Support,AGT027,Night,36,32,32,27,11.3,3,Present,39,4.6
+REC0223,2026-10-19,Customer Service,AGT011,Night,59,52,54,49,9.3,0,Absent,38,3.4
+REC0224,2026-10-20,Sales Support,AGT003,Morning,23,22,19,18,10.4,0,Present,45,3.8
+REC0225,2026-09-29,Technical Support,AGT009,Afternoon,32,29,31,29,11.9,2,Present,49,5.0
+REC0226,2026-10-03,Sales Support,AGT022,Morning,62,52,62,54,6.6,1,Present,41,3.9
+REC0227,2026-11-20,Sales Support,AGT017,Night,54,45,50,45,6.0,2,Present,48,3.1
+REC0228,2026-09-29,Collections,AGT007,Morning,45,43,42,39,4.1,2,Present,45,3.6
+REC0229,2026-10-24,Sales Support,AGT002,Morning,23,21,18,15,11.4,1,Present,39,2.9
+REC0230,2026-10-13,Technical Support,AGT024,Night,46,42,43,35,10.8,4,Present,35,3.4
+REC0231,2026-10-13,Customer Service,AGT003,Morning,50,43,49,45,7.7,1,Present,45,4.2
+REC0232,2026-10-24,Collections,AGT021,Night,60,49,58,54,5.3,5,Present,42,3.9
+REC0233,2026-10-23,Customer Service,AGT002,Night,63,60,61,56,10.4,1,Present,50,3.5
+REC0234,2026-10-19,Customer Service,AGT021,Night,18,17,14,13,9.2,2,Present,37,4.4
+REC0235,2026-10-06,Collections,AGT012,Morning,55,47,53,44,5.7,0,Present,39,4.9
+REC0236,2026-11-17,Sales Support,AGT011,Morning,37,30,37,32,13.8,3,Present,37,4.2
+REC0237,2026-11-22,Customer Service,AGT026,Afternoon,34,28,29,28,12.8,1,Present,39,3.3
+REC0238,2026-10-24,Collections,AGT023,Afternoon,29,26,25,23,8.1,3,Present,37,4.6
+REC0239,2026-10-16,Sales Support,AGT014,Night,62,49,62,58,13.7,1,Present,38,4.5
+REC0240,2026-09-28,Technical Support,AGT011,Morning,37,34,36,35,10.5,2,Present,35,4.0
+REC0241,2026-09-30,Technical Support,AGT023,Morning,20,16,20,19,6.3,0,Present,45,4.0
+REC0242,2026-10-09,Sales Support,AGT009,Afternoon,42,40,40,34,13.2,4,Present,49,2.9
+REC0243,2026-11-02,Technical Support,AGT026,Night,47,46,45,43,8.9,3,Late,36,4.2
+REC0244,2026-09-28,Sales Support,AGT016,Morning,46,44,43,42,4.2,0,Present,43,4.7
+REC0245,2026-11-16,Technical Support,AGT016,Night,30,28,29,25,4.7,4,Present,50,5.0
+REC0246,2026-11-09,Sales Support,AGT017,Night,54,52,49,40,5.8,2,Present,36,3.6
+REC0247,2026-11-22,Customer Service,AGT014,Night,65,62,62,59,4.2,5,Present,45,3.9
+REC0248,2026-11-19,Sales Support,AGT003,Morning,50,40,49,43,12.3,1,Present,49,2.8
+REC0249,2026-11-11,Collections,AGT012,Night,47,37,45,39,8.4,0,Present,36,4.6
+REC0250,2026-10-26,Sales Support,AGT028,Night,42,33,37,34,7.9,0,Present,38,5.0
+REC0251,2026-10-14,Customer Service,AGT011,Afternoon,38,36,35,34,10.6,5,Present,47,4.6
+REC0252,2026-10-18,Customer Service,AGT028,Night,40,34,35,31,5.1,5,Present,49,3.5
+REC0253,2026-09-29,Collections,AGT015,Afternoon,52,44,50,46,9.0,1,Late,44,3.0
+REC0254,2026-10-03,Customer Service,AGT025,Afternoon,54,45,54,46,9.9,5,Absent,41,4.2
+REC0255,2026-10-11,Collections,AGT003,Morning,63,55,59,51,9.9,5,Present,46,4.9
+REC0256,2026-10-15,Technical Support,AGT021,Morning,36,30,31,26,10.3,1,Present,39,3.2
+REC0257,2026-11-17,Customer Service,AGT029,Night,39,37,35,29,11.5,4,Present,49,3.3
+REC0258,2026-11-14,Sales Support,AGT013,Afternoon,20,19,20,20,11.6,0,Present,50,3.2
+REC0259,2026-11-01,Sales Support,AGT008,Morning,32,30,30,28,6.6,4,Present,43,3.8
+REC0260,2026-10-01,Collections,AGT014,Morning,55,47,55,50,7.3,1,Present,48,4.8
+REC0261,2026-11-03,Sales Support,AGT020,Morning,31,26,31,29,4.3,3,Present,38,4.7
+REC0262,2026-10-03,Collections,AGT020,Morning,37,35,34,28,5.2,0,Present,38,4.1
+REC0263,2026-09-29,Collections,AGT025,Night,54,51,50,47,10.5,5,Present,46,3.4
+REC0264,2026-11-08,Technical Support,AGT027,Night,38,35,36,31,9.6,3,Present,36,4.1
+REC0265,2026-11-06,Sales Support,AGT003,Afternoon,30,27,27,25,5.9,3,Present,47,4.0
+REC0266,2026-10-08,Sales Support,AGT016,Morning,28,26,23,21,12.9,2,Present,41,3.4
+REC0267,2026-09-26,Customer Service,AGT029,Morning,55,44,51,47,,4,Present,39,3.3
+REC0268,2026-11-05,Customer Service,AGT009,Night,44,39,40,33,7.8,5,Present,38,3.7
+REC0269,2026-11-04,Customer Service,AGT026,Night,44,42,39,34,6.3,1,Present,35,4.8
+REC0270,2026-11-06,Collections,AGT002,Morning,32,31,27,22,5.1,0,Present,43,2.9
+REC0271,2026-10-26,Technical Support,AGT030,Morning,61,49,61,59,4.9,7,Present,39,4.8
+REC0272,2026-11-12,Collections,AGT007,Night,32,26,27,22,4.3,3,Present,49,4.9
+REC0273,2026-10-06,Collections,AGT023,Morning,59,56,59,50,12.9,2,Present,39,4.7
+REC0274,2026-10-16,Customer Service,AGT006,Night,28,27,28,27,13.4,2,Present,50,2.8
+REC0275,2026-11-15,Technical Support,AGT018,Night,46,38,43,41,9.3,3,Present,38,4.8
+REC0276,2026-10-24,Collections,AGT016,Afternoon,37,30,32,28,12.9,3,Present,37,4.2
+REC0277,2026-11-09,Collections,AGT022,Morning,24,21,19,17,11.4,2,Late,40,4.0
+REC0278,2026-10-10,Technical Support,AGT018,Morning,52,43,51,42,8.4,4,Present,40,4.4
+REC0279,2026-11-02,Sales Support,AGT025,Night,21,17,17,14,6.3,0,Present,43,3.3
+REC0280,2026-10-15,Customer Service,AGT003,Afternoon,34,27,30,28,10.3,3,Present,48,3.3
+REC0281,2026-10-13,Customer Service,AGT020,Morning,29,23,28,27,12.6,-1,Absent,48,3.3
+REC0282,2026-09-30,Technical Support,AGT027,Night,44,38,44,42,10.3,0,Present,37,3.5
+REC0283,2026-11-18,Collections,AGT010,Night,41,33,39,33,4.8,1,Present,36,3.2
+REC0284,2026-11-10,Sales Support,AGT019,Night,63,60,60,55,12.9,7,Present,39,4.8
+REC0285,2026-10-19,Sales Support,AGT013,Afternoon,46,45,44,37,7.6,5,Present,43,3.7
+REC0286,2026-11-21,Sales Support,AGT002,Afternoon,51,50,47,41,4.0,2,Present,50,3.9
+REC0287,2026-10-16,Technical Support,AGT004,Morning,55,50,50,42,5.9,1,Present,41,4.3
+REC0288,2026-10-27,Sales Support,AGT011,Night,57,53,57,56,4.7,5,Present,40,4.6
+REC0289,2026-10-23,Technical Support,AGT008,Morning,54,50,51,46,5.0,4,Present,35,3.9
+REC0290,2026-10-12,Collections,AGT024,Morning,63,56,61,58,11.0,7,Present,45,2.9
+REC0291,2026-10-17,Sales Support,AGT011,Mornng,58,55,58,57,11.2,2,Present,40,3.0
+REC0292,2026-11-03,Customer Service,AGT003,Afternoon,41,33,40,38,11.1,1,Present,47,4.4
+REC0293,2026-11-09,Sales Support,AGT016,Night,34,28,33,30,8.1,3,Present,39,3.2
+REC0294,2026-10-20,Technical Support,AGT001,Afternoon,26,21,26,22,4.1,2,Present,50,3.0
+REC0295,2026-11-12,Technical Support,AGT012,Night,57,52,55,53,8.7,7,Present,44,4.2
+REC0296,2026-11-04,Customer Service,AGT009,Morning,54,47,49,44,12.3,0,Present,38,3.2
+REC0297,2026-11-10,Customer Service,AGT016,Morning,42,38,41,38,10.3,1,Present,42,4.8
+REC0298,2026-11-06,Sales Support,AGT018,Night,29,23,28,26,11.4,0,Present,37,3.4
+REC0299,2026-11-20,Sales Support,AGT027,Night,32,30,28,26,8.3,4,Present,39,3.1
+REC0300,2026-11-17,Collections,AGT028,Night,33,26,29,24,9.3,0,Present,47,4.9
+REC0301,2026-10-04,Customer Service,AGT012,Night,45,41,42,40,10.3,4,Present,41,4.4
+REC0302,2026-11-17,Collections,AGT029,Morning,23,20,20,17,5.8,2,Late,42,4.1
+REC0303,2026-10-21,Sales Support,AGT021,Morning,19,17,19,16,12.8,2,Present,49,4.8
+REC0304,2026-10-07,Collections,AGT014,Night,32,26,27,24,9.8,4,Present,50,4.9
+REC0305,2026-09-25,Technical Support,AGT007,Morning,43,35,40,35,10.5,4,Present,38,4.0
+REC0306,2026-10-28,Collections,AGT015,Night,29,27,27,24,11.7,1,Present,50,3.6
+REC0307,2026-09-28,Customer Service,AGT029,Afternoon,46,43,46,45,4.8,4,Present,49,5.0
+REC0308,2026-11-20,Technical Support,AGT009,Afternoon,39,31,38,34,5.0,3,Absent,37,3.1
+REC0309,2026-10-11,Customer Service,AGT011,Night,30,24,25,25,11.5,0,Present,50,3.0
+REC0310,2026-11-20,Technical Support,AGT002,Afternoon,58,46,57,53,10.1,3,Present,49,3.4
+REC0311,2026-11-16,Technical Support,AGT010,Afternoon,36,31,31,28,4.3,4,Present,50,3.7
+REC0312,2026-10-22,Collections,AGT028,Afternoon,54,50,50,45,4.5,5,Present,37,5.0
+REC0313,2026-10-23,Technical Support,AGT011,Afternoon,44,35,43,36,7.4,2,Present,43,4.8
+REC0314,2026-11-16,Technical Support,AGT028,Afternoon,64,56,59,56,10.5,3,Present,42,3.9
+REC0315,2026-11-20,Sales Support,AGT022,Morning,23,20,19,17,4.8,3,Present,47,2.9
+REC0316,2026-11-08,Collections,AGT018,Afternoon,48,47,47,46,10.1,4,Present,43,3.4
+REC0317,2026-10-25,Collections,AGT016,Night,60,53,60,51,12.9,3,Present,35,3.0
+REC0318,2026-10-27,Collections,AGT028,Afternoon,22,20,17,16,5.2,3,Present,46,3.0
+REC0319,2026-09-27,Collections,AGT005,Afternoon,49,42,48,47,5.8,6,Present,42,3.1
+REC0320,2026-10-20,Sales Support,AGT015,Afternoon,28,25,24,21,10.0,2,Present,45,2.9
+REC0321,2026-10-03,Customer Service,AGT025,Morning,26,22,21,19,8.5,3,Present,43,4.0
+REC0322,2026-10-16,Collections,AGT024,Afternoon,59,57,56,55,6.8,7,Present,39,4.2
+REC0323,2026-09-28,Collections,AGT019,Afternoon,61,59,61,55,10.4,3,Late,41,4.1
+REC0324,2026-10-06,Customer Service,AGT013,Morning,48,44,44,43,10.0,4,Present,39,3.0
+REC0325,2026-09-30,Sales Support,AGT030,Night,28,22,28,26,8.0,0,Present,48,3.0
+REC0326,2026-09-28,Customer Service,AGT013,Morning,55,50,50,44,13.6,1,Absent,45,3.7
+REC0327,2026-11-06,Customer Service,AGT021,Morning,38,31,38,32,12.6,4,Present,43,3.6
+REC0328,2026-09-30,Customer Service,AGT025,Morning,64,51,60,54,6.8,3,Present,36,4.3
+REC0329,2026-09-28,Technical Support,AGT028,Night,41,39,38,33,9.7,4,Present,46,4.2
+REC0330,2026-11-01,Customer Service,AGT025,Night,59,54,55,54,12.8,3,Present,42,3.6
+REC0331,2026-11-04,Collections,AGT007,Morning,19,15,14,13,5.7,2,Present,42,4.9
+REC0332,2026-10-26,Customer Service,AGT008,Morning,65,58,62,61,9.5,2,Present,41,3.6
+REC0333,2026-11-11,Technical Support,AGT019,Afternoon,59,53,56,50,4.5,3,Present,45,4.4
+REC0334,2026-10-09,,AGT027,Morning,35,32,33,32,6.5,0,Present,39,2.8
+REC0335,2026-11-12,Sales Support,AGT025,Morning,46,43,41,35,13.7,2,Present,49,4.9
+REC0336,2026-11-05,Customer Service,AGT029,Afternoon,34,33,30,29,9.5,2,Present,44,4.8
+REC0337,2026-10-08,Technical Support,AGT019,Morning,28,23,25,21,12.8,2,Present,47,3.0
+REC0338,2026-10-21,Collections,AGT013,Morning,39,35,34,28,10.6,3,Present,44,3.9
+REC0339,2026-09-30,Technical Support,AGT024,Afternoon,29,24,26,22,11.5,2,Present,44,3.4
+REC0340,2026-10-18,Sales Support,AGT025,Morning,33,29,29,25,12.7,3,Present,45,2.8
+REC0341,2026-11-01,Customer Service,AGT006,Morning,29,23,26,22,7.5,1,Present,36,3.9
+REC0342,2026-10-01,Collections,AGT015,Afternoon,42,35,42,40,9.1,3,Present,42,4.0
+REC0343,2026-10-18,Collections,AGT009,Morning,35,30,33,32,7.6,0,Present,41,4.5
+REC0344,2026-09-26,Customer Service,AGT011,Afternoon,55,46,55,54,10.4,1,Present,49,3.3
+REC0345,2026-10-09,Technical Support,AGT021,Afternoon,43,38,38,33,13.1,2,Present,38,3.4
+REC0346,2026-10-02,Collections,AGT014,Night,24,23,21,19,13.3,1,Present,45,3.1
+REC0347,2026-11-19,Sales Support,AGT002,Night,43,37,41,36,12.4,3,Present,50,2.9
+REC0348,2026-10-23,Collections,AGT016,Afternoon,57,54,52,48,7.9,1,Present,49,3.2
+REC0349,2026-10-07,Customer Service,AGT002,Morning,36,32,32,28,7.3,0,Present,47,3.7
+REC0350,2026-11-06,Sales Support,AGT029,Night,54,49,51,43,10.3,5,Present,42,4.3
+REC0351,2026-11-22,Sales Support,AGT022,Morning,45,43,45,44,8.3,0,Present,50,4.3
+REC0352,2026-10-21,Sales Support,AGT002,Night,23,21,21,18,7.9,3,Present,45,3.6
+REC0353,2026-10-04,Sales Support,AGT014,Night,18,16,15,13,7.4,1,Present,48,3.7
+REC0354,2026-11-09,Collections,AGT021,Afternoon,48,46,48,41,11.8,2,Present,39,4.3
+REC0355,2026-10-24,Customer Service,AGT011,Afternoon,61,52,58,51,9.5,2,Present,42,4.5
+REC0356,2026-11-03,Customer Service,AGT012,Afternoon,58,52,53,49,11.5,4,Present,35,4.0
+REC0357,2026-11-12,Collections,AGT005,Afternoon,32,30,27,23,10.7,0,Present,37,4.0
+REC0358,2026-10-02,Sales Support,AGT029,Night,64,56,61,59,12.6,8,Present,41,3.4
+REC0359,2026-10-05,Customer Service,AGT021,Afternoon,62,57,58,53,9.7,3,Present,48,4.3
+REC0360,2026-09-28,Sales Support,AGT011,Afternoon,36,31,32,27,4.4,1,Present,46,4.8
+REC0361,2026-11-05,Sales Support,AGT027,Morning,22,21,18,15,7.6,2,Present,35,3.4
+REC0362,2026-10-13,Customer Service,AGT030,Night,32,29,28,28,6.8,1,Present,46,3.6
+REC0363,2026-11-15,Sales Support,AGT015,Morning,23,22,20,18,8.9,0,Present,36,4.5
+REC0364,2026-10-15,Collections,AGT013,Night,30,23,30,27,9.8,1,Present,47,3.5
+REC0365,2026-10-09,Sales Support,AGT025,Afternoon,34,27,34,32,13.5,0,Present,43,4.8
+REC0366,2026-09-28,Technical Support,AGT017,Night,34,29,34,33,7.8,4,Present,41,4.2
+REC0367,2026-11-13,Sales Support,AGT012,Afternoon,21,18,21,20,9.6,0,Present,39,2.8
+REC0368,2026-10-17,Collections,AGT006,Night,52,41,52,43,5.6,2,Present,47,3.0
+REC0369,2026-11-12,Technical Support,AGT002,Morning,22,18,20,17,5.7,1,Present,37,3.6
+REC0370,2026-10-20,Customer Service,AGT001,Afternoon,51,49,47,41,11.7,5,Present,50,4.3
+REC0371,2026-10-14,Customer Service,AGT027,Morning,55,54,53,46,13.9,6,Present,42,3.6
+REC0372,2026-11-03,Customer Service,AGT005,Night,45,43,42,41,10.3,5,Present,39,4.0
+REC0373,2026-10-06,Sales Support,AGT022,Morning,49,38,49,48,4.7,3,Present,40,3.2
+REC0374,2026-11-02,Customer Service,AGT008,Night,41,39,38,36,6.0,2,Present,37,4.9
+REC0375,2026-11-04,Collections,AGT015,Morning,21,20,17,17,10.9,3,Present,48,3.2
+REC0376,2026-09-30,Customer Service,AGT029,Night,22,20,17,15,8.9,0,Present,45,4.9
+REC0377,2026-11-21,Technical Support,AGT009,Afternoon,34,29,34,31,12.9,1,Present,43,4.4
+REC0378,2026-11-15,Sales Support,AGT022,Afternoon,65,62,64,57,,1,Present,49,3.9
+REC0379,2026-11-19,Customer Service,AGT015,Afternoon,32,26,31,26,5.6,3,Present,44,3.3
+REC0380,2026-11-22,Customer Service,AGT027,Afternoon,61,48,57,49,4.0,4,Present,44,3.9
+REC0381,2026-10-03,Customer Service,AGT008,Morning,60,56,55,46,12.1,3,Present,41,3.2
+REC0382,2026-11-06,Sales Support,AGT018,Afternoon,34,27,34,30,11.7,3,Present,43,3.1
+REC0383,2026-11-03,Sales Support,AGT014,Night,64,54,60,56,6.5,5,Present,39,3.0
+REC0384,2026-09-30,Sales Support,AGT017,Morning,60,47,56,53,9.2,3,Present,39,3.2
+REC0385,2026-10-07,Collections,AGT030,Afternoon,47,39,45,44,9.9,6,Present,47,4.5
+REC0386,2026-09-25,Sales Support,AGT008,Afternoon,20,17,19,16,7.7,0,Present,46,3.7
+REC0387,2026-10-13,Customer Service,AGT021,Morning,51,42,48,40,4.3,2,Present,44,3.6
+REC0388,2026-10-11,Sales Support,AGT026,Morning,33,32,32,30,9.4,4,Present,38,4.3
+REC0389,2026-11-02,Collections,AGT010,Afternoon,22,18,21,18,8.2,0,Present,40,3.9
+REC0390,2026-10-02,Customer Service,AGT023,Night,65,57,63,59,6.0,0,Present,43,2.9
+REC0391,2026-10-20,Collections,AGT025,Night,18,14,14,13,6.5,1,Present,35,2.8
+REC0392,2026-11-22,Collections,AGT016,Afternoon,21,19,19,19,9.6,1,Present,41,4.6
+REC0393,2026-11-15,Technical Support,AGT019,Night,48,44,44,43,11.8,1,Present,48,2.9
+REC0394,2026-11-11,Collections,AGT004,Morning,63,53,60,55,9.8,4,Present,35,4.7
+REC0395,2026-10-09,Collections,AGT023,Afternoon,56,50,56,49,7.9,3,Present,35,3.1
+REC0396,2026-09-29,Technical Support,AGT010,Night,43,37,41,36,12.1,0,Present,50,3.6
+REC0397,2026-11-16,Customer Service,AGT029,Morning,26,22,22,22,10.4,2,Present,50,2.9
+REC0398,2026-10-16,Sales Support,AGT004,Afternoon,37,34,35,32,11.9,4,Present,38,4.5
+REC0399,2026-10-24,Collections,AGT017,Afternoon,58,45,56,50,12.8,7,Absent,50,3.5
+REC0400,2026-10-23,Technical Support,AGT025,Night,60,47,57,51,5.4,5,Present,35,3.3
+REC0401,2026-11-02,Collections,AGT003,Mornng,22,19,20,18,12.7,2,Present,37,4.3
+REC0402,2026-09-29,Technical Support,AGT007,Night,64,57,59,49,6.7,6,Present,46,3.1
+REC0403,2026-09-29,Collections,AGT007,Morning,56,49,56,53,10.0,2,Present,38,4.7
+REC0404,2026-10-08,Customer Service,AGT013,Night,22,18,17,16,4.7,1,Present,39,3.5
+REC0405,2026-10-27,Technical Support,AGT014,Night,62,54,62,58,4.8,1,Present,46,4.1
+REC0406,2026-10-03,Technical Support,AGT015,Morning,54,50,49,40,10.8,5,Present,46,4.4
+REC0407,2026-10-05,Customer Service,AGT009,Night,48,43,45,42,10.8,1,Present,39,3.9
+REC0408,2026-10-25,Sales Support,AGT022,Afternoon,29,25,24,22,8.3,3,Present,40,3.6
+REC0409,2026-09-28,Collections,AGT005,Morning,36,35,31,26,10.2,0,Present,45,4.6
+REC0410,2026-10-30,Sales Support,AGT015,Afternoon,25,24,24,23,11.3,1,Present,46,3.1
+REC0411,2026-11-01,Sales Support,AGT030,Afternoon,65,63,64,53,10.3,3,Present,42,4.4
+REC0412,2026-10-24,Technical Support,AGT030,Night,41,37,39,35,13.1,2,Present,40,4.8
+REC0413,2026-10-17,Customer Service,AGT024,Afternoon,51,46,48,41,13.2,4,Present,45,3.5
+REC0414,2026-11-09,Customer Service,AGT011,Afternoon,32,30,30,25,9.4,4,Present,36,4.4
+REC0415,2026-10-07,Technical Support,AGT029,Afternoon,33,26,28,25,13.3,1,Present,43,4.2
+REC0416,2026-11-19,Sales Support,AGT002,Night,60,59,57,52,8.9,5,Present,46,4.9
+REC0417,2026-10-05,Sales Support,AGT025,Afternoon,42,40,39,37,9.9,4,Present,37,4.3
+REC0418,2026-10-10,Customer Service,AGT007,Afternoon,50,46,49,43,11.0,1,Present,38,5.0
+REC0419,2026-10-25,Technical Support,AGT001,Afternoon,30,27,26,23,9.9,3,Present,50,4.8
+REC0420,2026-10-28,Customer Service,AGT022,Night,35,33,35,30,7.0,4,Present,38,3.6
+REC0421,2026-10-04,Sales Support,AGT025,Night,44,40,40,36,9.4,3,Present,35,3.1
+REC0422,2026-11-05,Customer Service,AGT011,Afternoon,42,37,42,35,13.6,0,Present,42,4.3
+REC0423,2026-11-12,Customer Service,AGT015,Afternoon,55,52,53,47,12.1,5,Present,49,3.2
+REC0424,2026-10-25,Technical Support,AGT007,Morning,47,38,44,37,8.5,2,Present,44,4.6
+REC0425,2026-11-01,Sales Support,AGT010,Afternoon,55,49,51,50,12.4,7,Present,38,4.6
+REC0426,2026-10-27,Collections,AGT001,Morning,59,48,54,46,12.4,7,Present,45,3.2
+REC0427,2026-10-30,Customer Service,AGT001,Morning,42,39,37,34,8.3,4,Present,48,4.6
+REC0428,2026-10-20,Collections,AGT011,Afternoon,44,43,41,34,6.9,0,Present,41,4.2
+REC0429,2026-11-23,Collections,AGT021,Morning,39,34,35,30,8.6,4,Present,42,3.9
+REC0430,2026-10-24,Collections,AGT028,Afternoon,21,17,18,18,4.5,3,Present,36,3.5
+REC0431,2026-09-29,Customer Service,AGT017,Night,63,50,63,55,12.3,8,Present,44,4.8
+REC0432,2026-10-08,Sales Support,AGT025,Afternoon,53,50,49,44,4.8,1,Present,36,3.5
+REC0433,2026-10-28,Collections,AGT029,Morning,63,56,58,54,10.8,6,Present,43,4.2
+REC0434,2026-11-20,Technical Support,AGT010,Morning,31,27,31,29,7.0,0,Present,45,3.8
+REC0435,2026-11-20,Sales Support,AGT012,Afternoon,54,45,52,51,12.3,0,Present,37,3.9
+REC0436,2026-10-04,Customer Service,AGT001,Afternoon,46,41,44,42,9.8,6,Present,39,4.7
+REC0437,2026-10-19,Technical Support,AGT013,Morning,49,47,45,42,6.4,1,Present,39,4.3
+REC0438,2026-09-26,Collections,AGT022,Afternoon,65,59,61,58,4.6,6,Present,38,4.7
+REC0439,2026-10-20,Technical Support,AGT012,Afternoon,63,54,59,56,4.3,8,Present,44,3.6
+REC0440,2026-11-19,Collections,AGT003,Afternoon,33,29,28,23,9.9,3,Absent,36,4.4
+REC0441,2026-10-08,Sales Support,AGT012,Morning,45,39,41,41,6.1,0,Present,45,4.9
+REC0442,2026-10-10,Technical Support,AGT010,Morning,38,32,38,34,7.9,2,Present,45,4.7
+REC0443,2026-10-09,Technical Support,AGT027,Night,57,52,53,52,11.4,1,Present,42,3.0
+REC0444,2026-11-18,Customer Service,AGT004,Morning,18,15,15,14,11.5,0,Present,46,4.7
+REC0445,2026-10-26,Technical Support,AGT020,Afternoon,27,26,27,24,8.1,3,Present,38,4.9
+REC0446,2026-09-30,Customer Service,AGT004,Afternoon,39,35,37,35,5.3,4,Present,48,3.2
+REC0447,2026-10-22,Collections,AGT008,Morning,40,37,38,35,7.6,5,Present,45,4.9
+REC0448,2026-10-07,Sales Support,AGT006,Morning,24,22,21,17,8.0,3,Present,35,3.8
+REC0449,2026-11-19,Sales Support,AGT029,Night,63,62,63,53,12.1,4,Present,50,3.1
+REC0450,2026-10-15,Collections,AGT018,Afternoon,39,35,39,37,11.7,4,Present,50,3.8
+REC0451,2026-10-08,Technical Support,AGT028,Morning,28,25,25,22,13.5,3,Present,48,3.3
+REC0452,2026-11-15,Collections,AGT030,Morning,30,28,25,23,6.2,4,Present,47,3.2
+REC0453,2026-11-04,Customer Service,AGT001,Afternoon,35,28,30,29,13.3,2,Present,36,4.3
+REC0454,2026-11-03,Sales Support,AGT008,Night,47,43,45,37,9.0,2,Present,48,3.1
+REC0455,2026-10-18,Customer Service,AGT017,Night,44,35,43,43,9.3,4,Present,50,2.8
+REC0456,2026-10-07,Sales Support,AGT007,Night,33,29,30,29,10.2,0,Late,39,2.9
+REC0457,2026-10-13,Sales Support,AGT023,Morning,54,47,53,52,12.2,1,Present,41,3.2
+REC0458,2026-10-06,Collections,AGT023,Morning,38,36,36,31,9.3,2,Present,37,4.8
+REC0459,2026-10-04,Collections,AGT022,Night,37,30,34,30,7.7,1,Present,49,3.2
+REC0460,2026-09-29,Technical Support,AGT015,Afternoon,32,28,32,27,8.9,2,Present,50,4.2
+REC0461,2026-10-09,Customer Service,AGT007,Afternoon,31,27,27,24,13.0,4,Late,50,4.2
+REC0462,2026-11-07,Technical Support,AGT014,Morning,36,28,32,30,4.9,0,Present,44,3.1
+REC0463,2026-11-04,Technical Support,AGT025,Night,43,34,40,34,4.7,1,Present,44,4.0
+REC0464,2026-10-03,Collections,AGT009,Morning,45,39,43,39,11.2,0,Present,47,4.3
+REC0465,2026-10-13,Collections,AGT006,Afternoon,18,18,15,14,10.4,2,Present,44,4.6
+REC0466,2026-10-13,Sales Support,AGT029,Morning,31,25,31,28,10.4,4,Present,37,4.7
+REC0467,2026-10-17,Collections,AGT021,Night,40,31,35,32,5.5,0,Present,49,3.6
+REC0468,2026-09-26,Technical Support,AGT007,Afternoon,33,31,29,24,12.5,3,Present,43,4.7
+REC0469,2026-11-23,Sales Support,AGT027,Night,45,43,40,34,11.8,2,Present,48,4.4
+REC0470,2026-11-18,Technical Support,AGT018,Morning,20,18,20,18,13.3,0,Present,37,3.0
+REC0471,2026-10-10,Sales Support,AGT019,Night,21,20,16,16,7.1,3,Present,49,4.7
+REC0472,2026-10-10,Technical Support,AGT016,Night,48,39,48,46,12.8,2,Present,38,3.2
+REC0473,2026-11-08,Collections,AGT007,Afternoon,50,42,49,45,4.0,1,Present,48,4.9
+REC0474,2026-10-24,Collections,AGT024,Afternoon,30,29,28,27,9.0,3,Absent,48,3.2
+REC0475,2026-10-12,Collections,AGT030,Morning,60,55,55,51,4.5,2,Present,45,4.1
+REC0476,2026-10-09,Collections,AGT022,Afternoon,40,32,37,31,11.6,3,Present,47,3.4
+REC0477,2026-09-29,Sales Support,AGT013,Afternoon,19,16,15,12,5.8,1,Present,38,4.5
+REC0478,2026-10-04,Collections,AGT011,Night,29,27,29,25,11.3,0,Present,42,4.7
+REC0479,2026-11-16,,AGT023,Morning,54,47,50,47,6.4,0,Present,36,3.5
+REC0480,2026-10-20,Collections,AGT026,Night,49,45,49,43,6.3,0,Present,36,5.0
+REC0481,2026-11-14,Customer Service,AGT024,Morning,54,45,52,45,10.9,-1,Present,42,4.2
+REC0482,2026-11-19,Collections,AGT018,Morning,35,33,30,28,6.6,1,Late,36,4.7
+REC0483,2026-10-12,Technical Support,AGT020,Night,52,43,48,46,4.2,3,Present,46,3.5
+REC0484,2026-11-06,Sales Support,AGT009,Night,57,45,55,54,8.1,3,Late,44,2.8
+REC0485,2026-11-08,Customer Service,AGT010,Morning,23,21,18,17,10.9,0,Present,45,4.9
+REC0486,2026-10-09,Customer Service,AGT018,Morning,26,25,22,19,6.0,0,Present,38,4.7
+REC0487,2026-10-14,Technical Support,AGT017,Morning,37,34,32,30,8.0,1,Present,35,5.0
+REC0488,2026-11-02,Sales Support,AGT022,Afternoon,18,15,17,15,6.1,1,Present,42,4.4
+REC0489,2026-10-21,Technical Support,AGT022,Morning,43,40,40,37,,4,Present,41,3.1
+REC0490,2026-10-02,Technical Support,AGT018,Afternoon,21,17,20,20,9.1,2,Absent,50,4.7
+REC0491,2026-10-18,Technical Support,AGT004,Morning,40,35,38,37,9.3,3,Late,37,4.1
+REC0492,2026-10-17,Technical Support,AGT007,Morning,51,47,50,47,13.9,1,Present,39,3.1
+REC0493,2026-10-17,Collections,AGT010,Morning,57,49,52,51,12.7,3,Present,48,3.9
+REC0494,2026-09-26,Customer Service,AGT024,Afternoon,60,49,58,54,11.6,3,Present,35,3.6
+REC0495,2026-11-08,Technical Support,AGT021,Morning,32,31,32,30,5.7,2,Present,44,3.5
+REC0496,2026-11-05,Sales Support,AGT013,Morning,29,23,27,25,5.1,0,Present,40,2.9
+REC0497,2026-11-15,Technical Support,AGT009,Night,41,37,36,33,8.8,4,Present,39,4.8
+REC0498,2026-11-10,Sales Support,AGT006,Night,38,35,36,32,9.1,0,Present,37,2.9
+REC0499,2026-10-12,Technical Support,AGT030,Night,49,46,48,46,4.9,5,Present,49,4.5
+REC0500,2026-10-29,Sales Support,AGT029,Morning,49,47,45,44,7.2,6,Present,43,3.8
+REC0501,2026-11-15,Customer Service,AGT019,Morning,28,26,28,27,11.8,2,Present,37,4.3
+REC0502,2026-11-17,Customer Service,AGT010,Morning,60,47,56,46,13.3,0,Present,44,4.3
+REC0503,2026-10-14,Collections,AGT026,Night,53,41,53,46,11.4,2,Present,50,3.9
+REC0504,2026-11-22,Collections,AGT025,Morning,25,22,21,18,13.7,3,Present,40,4.4
+REC0505,2026-10-31,Customer Service,AGT018,Night,58,45,57,49,4.5,4,Present,44,4.2
+REC0506,2026-10-25,Customer Service,AGT001,Afternoon,34,27,29,25,10.9,0,Present,36,3.3
+REC0507,2026-10-01,Customer Service,AGT023,Night,28,24,28,26,4.1,2,Present,50,4.7
+REC0508,2026-11-07,Sales Support,AGT022,Afternoon,46,37,44,36,4.5,6,Present,36,3.1
+REC0509,2026-11-16,Technical Support,AGT022,Afternoon,49,41,45,44,4.6,3,Present,44,3.6
+REC0510,2026-09-30,Collections,AGT017,Night,19,18,16,15,5.8,0,Present,40,3.4
+REC0511,2026-11-12,Sales Support,AGT018,Mornng,47,39,46,40,7.3,6,Present,48,4.4
+REC0512,2026-09-26,Technical Support,AGT005,Morning,63,59,62,59,12.6,8,Present,37,4.3
+REC0513,2026-10-21,Technical Support,AGT028,Afternoon,22,21,17,14,9.9,0,Present,38,3.7
+REC0514,2026-10-05,Collections,AGT024,Night,60,48,59,53,4.6,4,Present,48,3.1
+REC0515,2026-10-11,Collections,AGT029,Afternoon,65,53,60,50,12.1,4,Present,43,2.9
+REC0516,2026-10-11,Technical Support,AGT019,Night,40,36,36,30,11.7,4,Present,49,4.0
+REC0517,2026-10-17,Sales Support,AGT018,Afternoon,50,40,50,49,5.9,3,Present,35,3.5
+REC0518,2026-10-22,Customer Service,AGT002,Morning,60,56,56,53,4.1,6,Present,36,4.3
+REC0519,2026-09-26,Technical Support,AGT014,Afternoon,20,18,15,14,6.2,2,Present,44,3.0
+REC0520,2026-09-28,Technical Support,AGT017,Afternoon,48,44,46,45,10.8,5,Present,35,4.3
+REC0521,2026-11-11,Customer Service,AGT002,Afternoon,20,16,15,13,7.5,2,Present,44,3.2
+REC0522,2026-11-04,Collections,AGT019,Night,58,57,56,54,12.7,6,Present,35,4.3
+REC0523,2026-11-22,Technical Support,AGT016,Afternoon,18,16,18,15,4.3,2,Present,50,4.2
+REC0524,2026-10-13,Collections,AGT028,Morning,59,50,58,51,7.9,2,Present,36,2.8
+REC0525,2026-11-13,Collections,AGT017,Night,54,45,50,47,10.4,0,Present,37,3.6
+REC0526,2026-11-11,Technical Support,AGT018,Night,52,49,47,40,11.9,3,Present,50,4.9
+REC0527,2026-09-26,Collections,AGT030,Night,36,29,34,32,9.4,2,Present,50,3.3
+REC0528,2026-11-05,Sales Support,AGT003,Afternoon,24,20,20,19,5.9,2,Present,35,4.3
+REC0529,2026-11-15,Sales Support,AGT021,Afternoon,23,18,22,19,8.9,1,Present,46,3.4
+REC0530,2026-10-16,Sales Support,AGT025,Afternoon,25,23,22,22,8.6,0,Present,49,4.6
+REC0531,2026-11-22,Collections,AGT007,Afternoon,62,50,58,51,9.4,5,Present,37,4.9
+REC0532,2026-10-28,Customer Service,AGT016,Morning,50,43,49,47,7.2,1,Present,46,4.0
+REC0533,2026-10-31,Customer Service,AGT022,Morning,43,41,38,37,6.8,4,Present,41,4.9
+REC0534,2026-10-23,Technical Support,AGT005,Afternoon,37,34,33,28,11.1,1,Present,35,3.3
+REC0535,2026-11-22,Technical Support,AGT018,Night,33,32,33,29,5.2,4,Present,39,4.7
+REC0536,2026-10-29,Technical Support,AGT001,Morning,54,47,51,48,11.4,1,Present,41,3.8
+REC0537,2026-11-17,Customer Service,AGT005,Morning,36,29,36,35,6.4,1,Present,43,3.8
+REC0538,2026-09-28,Sales Support,AGT028,Afternoon,58,55,53,50,7.4,5,Present,35,3.0
+REC0539,2026-11-18,Customer Service,AGT011,Night,33,31,28,28,8.5,2,Absent,43,4.5
+REC0540,2026-11-01,Sales Support,AGT006,Night,24,23,22,20,5.8,0,Present,36,3.9
+REC0541,2026-11-15,Sales Support,AGT023,Morning,55,51,51,49,10.3,2,Present,37,4.0
+REC0542,2026-10-14,Sales Support,AGT015,Afternoon,45,42,44,41,7.7,2,Present,38,4.1
+REC0543,2026-10-31,Technical Support,AGT030,Morning,22,18,19,19,4.8,3,Present,44,4.5
+REC0544,2026-10-14,Sales Support,AGT002,Night,46,45,42,40,10.5,2,Present,38,3.7
+REC0545,2026-10-01,Collections,AGT002,Afternoon,35,30,34,29,6.4,1,Present,47,4.5
+REC0546,2026-10-30,Customer Service,AGT018,Afternoon,18,17,16,15,10.3,2,Present,41,4.9
+REC0547,2026-10-17,Sales Support,AGT026,Night,29,23,26,25,5.7,0,Present,43,3.1
+REC0548,2026-11-22,Technical Support,AGT007,Night,48,43,43,36,9.9,1,Present,38,4.4
+REC0549,2026-11-05,Sales Support,AGT003,Night,57,55,57,54,11.1,2,Present,40,4.6
+REC0550,2026-10-01,Customer Service,AGT010,Night,37,34,36,34,6.3,1,Present,50,4.9
+REC0551,2026-11-14,Sales Support,AGT026,Morning,29,25,26,24,4.0,3,Present,35,4.7
+REC0552,2026-10-03,Collections,AGT007,Morning,20,19,19,17,11.9,2,Present,42,3.8
+REC0553,2026-11-06,Sales Support,AGT019,Night,20,17,19,16,6.6,0,Present,37,4.9
+REC0554,2026-10-25,Collections,AGT006,Night,65,57,63,57,7.0,2,Present,41,4.6
+REC0555,2026-10-24,Technical Support,AGT005,Morning,53,46,50,48,6.8,3,Present,49,3.5
+REC0556,2026-10-22,Technical Support,AGT011,Night,19,17,19,16,7.5,0,Present,44,4.2
+REC0557,2026-10-07,Collections,AGT018,Night,42,36,41,37,4.4,4,Present,36,4.3
+REC0558,2026-10-03,Sales Support,AGT006,Morning,53,45,51,43,5.4,3,Present,44,4.8
+REC0559,2026-11-01,Sales Support,AGT030,Afternoon,44,42,44,39,9.4,4,Absent,44,4.1
+REC0560,2026-10-22,Sales Support,AGT003,Morning,33,29,32,29,12.6,1,Absent,44,3.4
+REC0561,2026-10-26,Technical Support,AGT015,Night,28,25,28,27,9.7,0,Present,47,3.9
+REC0562,2026-11-09,Technical Support,AGT006,Night,31,25,28,23,11.9,2,Present,36,4.3
+REC0563,2026-10-30,Collections,AGT026,Night,56,50,56,52,9.4,5,Present,44,4.7
+REC0564,2026-10-29,Technical Support,AGT025,Night,52,41,48,46,11.3,3,Present,47,4.7
+REC0565,2026-11-15,Technical Support,AGT013,Morning,36,35,35,34,5.4,0,Present,38,4.3
+REC0566,2026-11-01,Collections,AGT022,Morning,37,30,33,32,8.1,0,Present,38,4.7
+REC0567,2026-11-22,Technical Support,AGT025,Night,27,22,24,23,13.8,3,Present,49,4.5
+REC0568,2026-11-13,Sales Support,AGT026,Afternoon,30,26,25,21,7.5,0,Absent,48,3.3
+REC0569,2026-10-16,Sales Support,AGT018,Night,23,20,20,20,6.9,1,Present,38,3.5
+REC0570,2026-10-23,Collections,AGT005,Night,55,49,54,46,13.9,4,Present,37,4.8
+REC0571,2026-10-11,Technical Support,AGT022,Morning,49,39,48,41,13.0,3,Present,38,3.7
+REC0572,2026-10-05,Sales Support,AGT007,Night,46,42,46,43,9.1,1,Present,49,4.5
+REC0573,2026-10-24,Customer Service,AGT016,Night,32,29,27,22,10.4,1,Present,48,3.3
+REC0574,2026-10-29,Customer Service,AGT024,Afternoon,33,30,30,27,7.5,4,Late,37,3.0
+REC0575,2026-10-16,Customer Service,AGT026,Afternoon,33,32,29,26,7.6,2,Present,35,3.7
+REC0576,2026-11-03,Customer Service,AGT011,Morning,50,49,45,43,12.5,0,Present,40,3.5
+REC0577,2026-11-01,Sales Support,AGT004,Night,28,23,28,27,4.9,1,Present,38,4.8
+REC0578,2026-10-15,Collections,AGT016,Night,39,32,39,37,11.2,4,Present,50,4.3
+REC0579,2026-11-11,Sales Support,AGT004,Afternoon,54,49,49,44,8.3,6,Present,49,3.2
+REC0580,2026-10-03,Collections,AGT005,Night,20,18,17,17,8.2,0,Present,42,3.7
+REC0581,2026-11-11,Collections,AGT019,Night,47,44,45,44,12.0,0,Present,42,4.6
+REC0582,2026-10-02,Technical Support,AGT016,Afternoon,64,62,63,58,12.7,8,Late,40,2.9
+REC0583,2026-11-13,Customer Service,AGT008,Night,32,25,28,24,13.1,2,Present,42,3.6
+REC0584,2026-10-10,Sales Support,AGT006,Morning,62,58,59,50,4.6,5,Present,45,3.3
+REC0585,2026-10-12,Customer Service,AGT005,Night,25,22,24,22,11.0,3,Present,49,4.0
+REC0586,2026-11-17,Collections,AGT029,Afternoon,35,28,35,31,12.3,0,Present,49,3.2
+REC0587,2026-11-04,Collections,AGT016,Afternoon,56,47,55,49,9.9,5,Present,39,2.8
+REC0588,2026-11-17,Technical Support,AGT011,Night,64,56,62,56,10.6,2,Present,46,4.8
+REC0589,2026-10-08,Sales Support,AGT003,Night,18,15,15,13,13.0,0,Present,45,4.8
+REC0590,2026-10-09,Sales Support,AGT007,Afternoon,38,31,34,31,12.9,1,Present,46,3.8
+REC0591,2026-10-01,Technical Support,AGT014,Night,29,25,26,25,11.5,0,Present,37,3.0
+REC0592,2026-11-18,Customer Service,AGT020,Morning,49,39,49,44,12.2,6,Present,41,3.6
+REC0593,2026-11-08,Customer Service,AGT002,Night,24,21,19,17,11.4,3,Present,47,3.2
+REC0594,2026-10-20,Customer Service,AGT005,Afternoon,29,28,24,22,13.8,2,Absent,46,3.2
+REC0595,2026-10-08,Sales Support,AGT029,Night,64,61,59,50,10.3,8,Present,46,4.3
+REC0596,2026-11-15,Technical Support,AGT011,Night,52,44,52,43,10.5,4,Present,45,4.9
+REC0597,2026-09-26,Sales Support,AGT013,Morning,64,58,64,61,10.4,4,Present,44,4.9
+REC0598,2026-10-05,Collections,AGT028,Morning,32,27,32,28,4.9,3,Present,48,3.6
+REC0599,2026-11-05,Collections,AGT025,Night,50,46,45,43,9.2,0,Present,42,4.4
+REC0600,2026-10-14,Customer Service,AGT002,Night,59,48,56,54,,2,Present,37,3.6
+REC0601,2026-10-07,Sales Support,AGT007,Morning,55,53,53,44,11.1,1,Present,48,4.7
+REC0602,2026-11-22,Collections,AGT019,Morning,28,23,28,25,10.5,1,Present,35,4.1
+REC0603,2026-11-14,Sales Support,AGT009,Morning,23,19,23,21,7.1,1,Present,40,2.8
+REC0604,2026-10-29,Sales Support,AGT007,Night,42,39,38,35,13.5,3,Present,47,4.7
+REC0605,2026-10-25,Technical Support,AGT005,Night,27,25,27,23,6.4,2,Present,46,3.5
+REC0606,2026-10-16,Technical Support,AGT022,Night,36,29,35,30,8.7,0,Present,42,3.8
+REC0607,2026-10-06,Collections,AGT030,Night,52,47,49,45,8.9,4,Present,37,3.1
+REC0608,2026-11-15,Customer Service,AGT030,Afternoon,27,25,27,25,4.7,0,Present,49,3.4
+REC0609,2026-09-30,Technical Support,AGT022,Afternoon,60,58,60,57,9.6,1,Present,44,4.6
+REC0610,2026-11-19,Sales Support,AGT022,Afternoon,55,52,52,51,9.5,6,Present,40,4.0
+REC0611,2026-11-14,Collections,AGT010,Morning,38,34,33,29,12.9,3,Late,45,4.0
+REC0612,2026-10-14,Collections,AGT002,Afternoon,61,52,60,53,11.7,0,Present,35,3.0
+REC0613,2026-10-02,,AGT030,Night,53,49,48,42,13.8,1,Late,36,4.0
+REC0614,2026-11-02,Customer Service,AGT013,Night,46,37,44,42,5.7,0,Present,45,3.0
+REC0615,2026-10-28,Technical Support,AGT021,Morning,40,37,35,32,6.3,5,Present,44,4.4
+REC0616,2026-09-29,Customer Service,AGT001,Night,40,38,39,32,12.7,2,Present,44,5.0
+REC0617,2026-10-02,Customer Service,AGT028,Night,48,46,48,46,6.5,2,Present,44,4.3
+REC0618,2026-11-07,Collections,AGT002,Morning,64,55,60,52,10.7,2,Present,37,3.0
+REC0619,2026-11-16,Collections,AGT015,Morning,60,48,55,46,14.0,4,Present,50,2.9
+REC0620,2026-10-17,Customer Service,AGT015,Morning,26,21,25,21,6.5,2,Late,50,4.9
+REC0621,2026-11-14,Customer Service,AGT022,Afternoon,38,35,36,32,7.0,4,Late,43,4.5
+REC0622,2026-10-12,Customer Service,AGT028,Afternoon,43,36,38,37,7.8,3,Present,42,4.7
+REC0623,2026-10-23,Customer Service,AGT004,Morning,39,35,34,31,10.2,1,Present,47,3.9
+REC0624,2026-10-01,Technical Support,AGT007,Morning,44,34,41,38,5.6,4,Late,44,4.8
+REC0625,2026-11-02,Collections,AGT022,Afternoon,19,18,19,17,4.3,0,Present,49,4.1
+REC0626,2026-11-05,Sales Support,AGT001,Afternoon,49,48,47,40,5.9,6,Present,35,3.7
+REC0627,2026-10-02,Sales Support,AGT024,Night,54,48,53,49,8.7,1,Absent,44,3.2
+REC0628,2026-10-10,Collections,AGT003,Afternoon,54,42,50,49,12.8,1,Present,47,4.2
+REC0629,2026-11-14,Sales Support,AGT021,Morning,24,23,19,19,5.2,3,Present,46,3.6
+REC0630,2026-10-28,Collections,AGT030,Morning,53,47,52,51,9.1,5,Present,44,2.9
+REC0631,2026-10-10,Customer Service,AGT011,Morning,18,14,18,18,5.9,1,Present,39,4.8
+REC0632,2026-10-12,Sales Support,AGT013,Morning,32,29,29,28,8.6,2,Present,50,4.2
+REC0633,2026-11-03,Customer Service,AGT023,Afternoon,44,39,41,37,6.7,2,Present,45,3.3
+REC0634,2026-11-08,Sales Support,AGT025,Night,52,47,47,44,8.2,6,Present,44,4.4
+REC0635,2026-11-19,Technical Support,AGT016,Afternoon,53,52,49,41,6.1,0,Present,41,3.0
+REC0636,2026-09-27,Sales Support,AGT027,Afternoon,49,46,48,46,8.0,4,Present,35,3.9
+REC0637,2026-09-30,Technical Support,AGT020,Afternoon,28,26,25,23,5.1,2,Present,38,4.5
+REC0638,2026-10-29,Sales Support,AGT004,Night,64,59,59,48,13.8,4,Present,42,3.2
+REC0639,2026-11-13,Collections,AGT010,Afternoon,18,15,18,18,9.4,0,Present,38,4.6
+REC0640,2026-10-11,Collections,AGT005,Night,56,53,54,46,8.7,2,Present,43,4.0
+REC0641,2026-11-08,Technical Support,AGT022,Night,21,17,16,13,12.1,3,Present,38,4.7
+REC0642,2026-11-13,Sales Support,AGT018,Night,40,36,37,36,7.1,1,Present,35,3.3
+REC0643,2026-10-02,Technical Support,AGT009,Afternoon,61,48,59,49,13.3,0,Present,39,4.6
+REC0644,2026-11-01,Technical Support,AGT012,Morning,44,41,44,42,5.0,4,Present,44,4.6
+REC0645,2026-10-20,Technical Support,AGT010,Afternoon,27,22,23,22,5.7,2,Present,39,3.4
+REC0646,2026-10-03,Technical Support,AGT027,Morning,23,18,22,19,10.3,3,Present,40,4.8
+REC0647,2026-11-02,Technical Support,AGT018,Morning,19,15,15,14,13.5,1,Present,50,4.0
+REC0648,2026-11-06,Collections,AGT003,Afternoon,60,51,60,58,5.8,7,Absent,43,4.9
+REC0649,2026-11-18,Customer Service,AGT002,Afternoon,45,43,43,36,11.3,3,Present,39,2.9
+REC0650,2026-10-14,Sales Support,AGT003,Afternoon,21,18,16,14,8.4,0,Present,35,4.1
+REC0651,2026-10-16,Collections,AGT007,Afternoon,26,23,26,24,11.7,2,Present,45,4.9
+REC0652,2026-10-06,Customer Service,AGT007,Night,18,14,14,12,9.2,1,Present,47,3.9
+REC0653,2026-11-02,Collections,AGT004,Afternoon,38,36,35,29,12.4,0,Absent,37,3.3
+REC0654,2026-11-23,Technical Support,AGT017,Morning,53,46,48,40,5.4,6,Present,48,4.9
+REC0655,2026-10-20,Customer Service,AGT022,Night,22,19,19,19,8.9,1,Present,45,4.4
+REC0656,2026-10-17,Customer Service,AGT002,Morning,56,50,51,45,9.3,1,Present,37,4.1
+REC0657,2026-11-11,Collections,AGT014,Afternoon,21,18,17,15,6.6,2,Late,46,3.0
+REC0658,2026-10-11,Technical Support,AGT007,Afternoon,45,42,42,35,9.3,1,Present,37,4.3
+REC0659,2026-10-02,Collections,AGT020,Afternoon,22,20,17,15,10.6,3,Present,49,4.4
+REC0660,2026-10-01,Collections,AGT009,Afternoon,33,26,28,27,9.5,0,Present,36,3.7
+REC0661,2026-10-23,Technical Support,AGT015,Night,36,34,36,33,10.3,1,Present,42,4.8
+REC0662,2026-11-23,Sales Support,AGT009,Night,50,45,50,47,8.5,6,Present,35,3.4
+REC0663,2026-09-29,Customer Service,AGT030,Night,60,59,58,56,4.1,4,Present,50,4.5
+REC0664,2026-10-27,Sales Support,AGT002,Morning,24,19,23,20,6.4,0,Present,37,4.5
+REC0665,2026-10-31,Customer Service,AGT020,Afternoon,35,29,33,30,5.4,2,Present,38,3.3
+REC0666,2026-10-21,Sales Support,AGT017,Night,48,40,47,42,6.2,5,Present,35,4.9
+REC0667,2026-10-14,Sales Support,AGT015,Afternoon,47,40,47,40,10.0,4,Present,47,3.7
+REC0668,2026-10-23,Customer Service,AGT005,Morning,60,57,55,54,10.4,0,Present,47,3.2
+REC0669,2026-10-24,Collections,AGT030,Morning,43,36,40,33,7.4,2,Present,49,2.8
+REC0670,2026-10-11,Sales Support,AGT030,Morning,54,44,49,48,5.3,0,Present,48,4.8
+REC0671,2026-10-27,Customer Service,AGT017,Afternoon,30,29,25,21,9.6,1,Present,48,3.6
+REC0672,2026-10-12,Technical Support,AGT022,Morning,29,25,27,22,11.5,2,Present,44,3.2
+REC0673,2026-11-18,Technical Support,AGT013,Afternoon,50,44,48,43,5.4,3,Present,45,4.9
+REC0674,2026-09-25,Sales Support,AGT021,Night,34,32,29,25,8.5,4,Present,37,4.9
+REC0675,2026-10-21,Customer Service,AGT001,Night,48,38,43,42,9.8,3,Present,47,2.9
+REC0676,2026-09-27,Sales Support,AGT013,Morning,19,18,17,15,10.1,1,Present,40,4.1
+REC0677,2026-11-12,Technical Support,AGT028,Night,51,48,48,43,12.6,2,Present,35,4.4
+REC0678,2026-10-16,Technical Support,AGT001,Afternoon,18,15,13,11,10.5,1,Present,40,3.0
+REC0679,2026-10-13,Technical Support,AGT005,Night,55,51,54,52,9.2,0,Present,50,4.8
+REC0680,2026-10-21,Collections,AGT005,Morning,62,54,58,48,5.0,3,Present,50,2.8
+REC0681,2026-11-03,Customer Service,AGT004,Afternoon,62,48,58,50,10.3,-1,Present,42,3.7
+REC0682,2026-11-08,Customer Service,AGT009,Night,26,21,26,25,5.9,3,Present,35,2.9
+REC0683,2026-11-20,Technical Support,AGT030,Afternoon,20,17,19,16,14.0,2,Present,37,2.9
+REC0684,2026-10-09,Collections,AGT005,Afternoon,45,37,42,38,9.0,4,Present,41,2.8
+REC0685,2026-10-19,Sales Support,AGT008,Night,35,30,30,26,6.3,0,Present,36,4.0
+REC0686,2026-10-08,Collections,AGT023,Night,35,30,31,29,6.0,0,Present,36,3.3
+REC0687,2026-10-20,Technical Support,AGT024,Night,55,46,54,52,13.8,0,Present,48,3.5
+REC0688,2026-11-07,Sales Support,AGT026,Night,46,45,44,40,7.1,2,Present,37,4.7
+REC0689,2026-10-23,Technical Support,AGT015,Afternoon,51,46,46,40,8.4,6,Present,40,4.5
+REC0690,2026-11-23,Collections,AGT001,Morning,23,21,21,20,7.5,1,Present,43,3.4
+REC0691,2026-10-26,Technical Support,AGT023,Afternoon,18,16,14,12,13.4,2,Present,40,3.0
+REC0692,2026-10-14,Customer Service,AGT009,Afternoon,36,33,35,30,9.1,3,Present,48,3.9
+REC0693,2026-10-06,Customer Service,AGT030,Night,35,31,32,27,5.5,2,Present,45,3.7
+REC0694,2026-11-23,Collections,AGT006,Morning,30,25,26,25,9.1,3,Present,40,4.4
+REC0695,2026-11-10,Sales Support,AGT024,Morning,27,22,22,21,5.6,3,Present,44,4.9
+REC0696,2026-11-02,Customer Service,AGT001,Afternoon,37,31,32,26,9.6,2,Present,39,4.1
+REC0697,2026-10-02,Technical Support,AGT026,Afternoon,44,35,43,39,13.6,5,Present,49,4.0
+REC0698,2026-10-23,Sales Support,AGT006,Afternoon,27,22,24,23,6.5,3,Present,49,3.3
+REC0699,2026-11-17,Technical Support,AGT003,Night,32,31,27,26,7.6,3,Present,46,4.4
+REC0700,2026-11-23,Customer Service,AGT022,Morning,52,47,49,47,8.6,5,Present,44,5.0
+REC0701,2026-11-21,Collections,AGT021,Morning,35,30,33,32,13.5,1,Present,50,4.2
+REC0702,2026-10-07,Sales Support,AGT001,Afternoon,35,34,32,27,11.9,1,Present,47,3.0
+REC0703,2026-11-16,Collections,AGT019,Night,33,31,31,30,4.9,3,Present,39,3.7
+REC0704,2026-10-02,Collections,AGT001,Night,22,21,18,15,10.8,1,Present,46,3.3
+REC0705,2026-10-14,Customer Service,AGT006,Morning,28,26,24,22,5.6,1,Present,50,3.7
+REC0706,2026-11-16,Sales Support,AGT006,Morning,50,47,48,44,8.9,3,Present,36,3.3
+REC0707,2026-10-28,Sales Support,AGT013,Morning,64,61,60,52,9.0,4,Present,46,3.9
+REC0708,2026-10-10,Collections,AGT009,Morning,22,18,22,18,12.2,1,Present,44,3.1
+REC0709,2026-09-27,Collections,AGT023,Night,22,18,19,17,9.7,0,Present,37,3.5
+REC0710,2026-10-19,Sales Support,AGT021,Morning,49,42,47,44,5.2,6,Present,40,3.0
+REC0711,2026-10-10,Sales Support,AGT015,Night,22,19,22,20,11.6,3,Present,45,4.6
+REC0712,2026-11-13,Technical Support,AGT012,Morning,26,24,25,24,12.5,1,Present,42,3.3
+REC0713,2026-10-27,Technical Support,AGT001,Night,59,56,57,53,6.3,5,Present,47,4.6
+REC0714,2026-11-19,Customer Service,AGT012,Night,32,29,29,27,11.7,3,Present,47,3.3
+REC0715,2026-10-03,Customer Service,AGT021,Afternoon,56,46,51,44,5.9,4,Present,36,4.7
+REC0716,2026-11-08,Sales Support,AGT003,Night,65,54,65,61,4.8,1,Present,42,4.3
+REC0717,2026-10-03,Collections,AGT012,Afternoon,44,35,40,38,11.8,1,Present,46,3.7
+REC0718,2026-11-22,Technical Support,AGT012,Afternoon,30,27,25,24,11.5,1,Present,42,4.8
+REC0719,2026-10-14,Sales Support,AGT005,Afternoon,46,37,41,36,11.8,5,Present,38,2.9
+REC0720,2026-11-23,Collections,AGT022,Afternoon,62,50,59,49,5.3,5,Present,39,4.7
+REC0721,2026-10-26,Customer Service,AGT008,Morning,61,50,61,58,6.4,2,Present,40,3.5
+REC0722,2026-11-09,Collections,AGT009,Afternoon,48,39,43,38,4.9,4,Present,48,4.3
+REC0723,2026-10-04,Collections,AGT005,Afternoon,52,46,48,46,12.9,3,Present,44,3.3
+REC0724,2026-10-25,Technical Support,AGT010,Night,43,41,41,38,6.4,1,Present,46,4.4
+REC0725,2026-11-20,Sales Support,AGT020,Morning,51,47,47,43,11.1,6,Present,37,3.0
+REC0726,2026-10-19,Customer Service,AGT007,Morning,62,51,61,52,6.2,7,Present,36,3.7
+REC0727,2026-11-18,Technical Support,AGT016,Night,39,36,36,30,10.1,5,Present,38,3.9
+REC0728,2026-10-15,Customer Service,AGT015,Night,52,43,48,46,5.4,0,Present,39,2.9
+REC0729,2026-09-26,Collections,AGT027,Night,28,24,24,22,11.0,1,Present,35,4.5
+REC0730,2026-10-11,Customer Service,AGT010,Morning,40,32,36,30,7.9,5,Present,37,3.1
+REC0731,2026-09-30,Customer Service,AGT012,Morning,62,51,58,49,9.8,5,Present,41,4.3
+REC0732,2026-11-14,Technical Support,AGT020,Morning,28,24,26,23,5.4,1,Present,40,3.9
+REC0733,2026-10-11,Technical Support,AGT024,Night,31,27,27,24,9.8,1,Present,43,3.1
+REC0734,2026-10-23,Technical Support,AGT003,Afternoon,28,26,24,20,4.2,3,Present,43,4.4
+REC0735,2026-11-15,Collections,AGT014,Morning,33,28,28,24,6.3,0,Present,47,4.3
+REC0736,2026-11-02,Sales Support,AGT013,Night,29,27,25,24,12.6,2,Present,46,4.7
+REC0737,2026-11-08,Customer Service,AGT008,Night,65,57,65,64,7.7,8,Present,45,3.3
+REC0738,2026-10-22,Technical Support,AGT019,Afternoon,60,52,60,58,8.5,7,Present,41,3.8
+REC0739,2026-10-25,Technical Support,AGT012,Afternoon,41,34,37,31,12.2,5,Present,42,3.5
+REC0740,2026-11-10,Technical Support,AGT018,Night,27,25,27,25,5.4,2,Present,49,4.2
+REC0741,2026-10-16,Collections,AGT007,Morning,25,23,21,20,11.7,1,Present,46,3.2
+REC0742,2026-11-15,Sales Support,AGT016,Night,40,34,35,32,7.1,3,Present,37,3.5
+REC0743,2026-10-19,Technical Support,AGT011,Afternoon,35,31,35,32,10.2,1,Present,48,3.1
+REC0744,2026-10-26,Technical Support,AGT012,Morning,19,17,15,13,10.0,1,Present,41,3.9
+REC0745,2026-11-18,Customer Service,AGT020,Afternoon,39,32,39,32,8.3,2,Late,36,3.4
+REC0746,2026-11-01,Collections,AGT012,Night,36,29,34,33,13.4,1,Absent,45,3.8
+REC0747,2026-10-14,Technical Support,AGT030,Afternoon,25,23,23,23,6.7,0,Present,38,3.1
+REC0748,2026-10-19,Customer Service,AGT005,Afternoon,34,32,33,28,12.5,3,Present,45,3.0
+REC0749,2026-10-12,Collections,AGT027,Afternoon,57,45,52,45,10.2,1,Present,42,4.1
+REC0750,2026-09-27,Customer Service,AGT028,Afternoon,37,33,36,35,7.4,0,Present,39,3.0
+REC0751,2026-10-24,Sales Support,AGT019,Afternoon,44,43,39,33,9.6,5,Present,43,5.0
+REC0752,2026-11-18,Customer Service,AGT024,Night,48,47,46,43,7.2,0,Present,36,2.9
+REC0753,2026-10-12,Customer Service,AGT008,Morning,21,19,18,18,13.8,2,Present,46,4.4
+REC0754,2026-09-25,Sales Support,AGT028,Morning,31,26,31,26,10.9,1,Present,36,4.9
+REC0755,2026-11-14,Customer Service,AGT004,Afternoon,21,18,20,16,6.6,3,Present,40,3.3
+REC0756,2026-10-14,,AGT025,Morning,34,33,32,29,8.1,3,Present,37,4.8
+REC0757,2026-11-06,Customer Service,AGT028,Night,46,43,42,37,11.7,5,Present,46,2.9
+REC0758,2026-10-16,Collections,AGT023,Night,53,44,48,39,6.5,1,Present,46,4.1
+REC0759,2026-11-10,Customer Service,AGT001,Afternoon,19,17,14,14,4.3,0,Present,39,2.9
+REC0760,2026-11-03,Collections,AGT027,Night,42,35,40,38,5.1,0,Present,40,2.8
+REC0761,2026-11-15,Technical Support,AGT002,Morning,36,35,31,27,8.9,1,Present,39,4.6
+REC0762,2026-11-06,Sales Support,AGT005,Morning,18,15,13,11,6.5,1,Present,41,2.9
+REC0763,2026-10-08,Sales Support,AGT004,Afternoon,51,46,47,42,11.8,5,Present,47,4.6
+REC0764,2026-10-06,Customer Service,AGT028,Morning,20,16,19,17,7.2,0,Present,35,4.0
+REC0765,2026-09-28,Technical Support,AGT004,Afternoon,65,59,63,52,8.6,6,Present,49,4.3
+REC0766,2026-11-14,Collections,AGT014,Morning,19,15,17,14,8.3,0,Present,47,3.7
+REC0767,2026-09-27,Sales Support,AGT020,Morning,55,51,51,49,8.9,1,Absent,40,4.8
+REC0768,2026-10-31,Collections,AGT001,Afternoon,31,27,31,26,9.3,0,Present,42,3.0
+REC0769,2026-11-01,Technical Support,AGT023,Afternoon,41,39,40,34,4.9,2,Present,42,3.0
+REC0770,2026-11-06,Customer Service,AGT010,Morning,56,47,55,45,8.6,7,Present,36,4.8
+REC0771,2026-10-31,Sales Support,AGT024,Night,32,25,32,26,14.0,0,Present,35,4.6
+REC0772,2026-11-23,Collections,AGT018,Morning,29,26,26,25,9.0,0,Present,50,4.9
+REC0773,2026-10-01,Sales Support,AGT002,Morning,35,31,32,30,8.4,4,Present,40,4.8
+REC0774,2026-10-11,Collections,AGT010,Morning,54,52,53,51,12.1,6,Present,47,3.6
+REC0775,2026-11-06,Sales Support,AGT013,Morning,28,22,23,20,13.0,1,Present,42,3.3
+REC0776,2026-11-18,Technical Support,AGT026,Morning,22,21,19,16,11.7,1,Late,50,2.9
+REC0777,2026-10-19,Customer Service,AGT025,Morning,53,46,48,43,7.2,1,Present,43,5.0
+REC0778,2026-11-19,Collections,AGT011,Morning,33,30,30,29,4.8,2,Present,47,3.1
+REC0779,2026-10-07,Technical Support,AGT021,Afternoon,25,24,25,21,13.6,0,Present,40,3.3
+REC0780,2026-10-29,Collections,AGT023,Afternoon,36,30,32,31,5.7,0,Present,47,3.2
+REC0781,2026-11-07,Sales Support,AGT024,Morning,40,38,37,35,4.2,3,Present,37,3.7
+REC0782,2026-10-26,Technical Support,AGT006,Night,43,34,38,35,10.7,1,Present,36,3.8
+REC0783,2026-10-26,Sales Support,AGT013,Afternoon,50,43,48,44,8.4,5,Present,47,2.8
+REC0784,2026-11-16,Sales Support,AGT010,Night,33,28,30,29,8.8,1,Late,36,5.0
+REC0785,2026-10-27,Collections,AGT030,Afternoon,32,31,31,28,7.0,3,Late,44,3.2
+REC0786,2026-10-02,Technical Support,AGT001,Night,32,30,29,27,11.3,4,Present,42,2.9
+REC0787,2026-11-13,Technical Support,AGT025,Morning,27,26,24,21,10.8,2,Present,41,4.7
+REC0788,2026-11-14,Collections,AGT024,Night,64,54,62,54,9.0,2,Present,37,3.0
+REC0789,2026-09-26,Collections,AGT028,Afternoon,46,43,44,42,8.9,3,Present,44,4.7
+REC0790,2026-11-20,Technical Support,AGT019,Morning,62,60,62,59,9.1,1,Present,38,3.1
+REC0791,2026-09-26,Technical Support,AGT028,Morning,34,31,32,30,5.8,0,Present,50,3.2
+REC0792,2026-10-16,Customer Service,AGT021,Night,54,48,52,51,7.8,5,Present,47,3.7
+REC0793,2026-11-23,Technical Support,AGT007,Afternoon,57,49,57,53,9.0,6,Present,45,4.0
+REC0794,2026-11-05,Customer Service,AGT003,Morning,46,36,42,40,10.7,1,Present,42,3.6
+REC0795,2026-09-28,Collections,AGT002,Night,56,44,52,43,9.7,2,Present,38,4.7
+REC0796,2026-11-08,Collections,AGT024,Morning,35,33,35,34,9.7,2,Present,42,3.0
+REC0797,2026-10-15,Sales Support,AGT016,Night,50,48,50,49,4.9,2,Present,37,2.9
+REC0798,2026-10-02,Technical Support,AGT007,Afternoon,57,56,54,53,5.4,2,Present,35,3.6
+REC0799,2026-10-27,Sales Support,AGT007,Morning,35,31,32,27,5.7,4,Present,37,2.8
+REC0800,2026-11-04,Technical Support,AGT022,Night,55,46,55,47,10.9,7,Present,39,3.2
+REC0801,2026-11-15,Collections,AGT010,Morning,55,51,54,52,9.9,1,Present,44,3.9
+REC0802,2026-11-23,Technical Support,AGT002,Night,54,52,51,46,9.0,3,Present,47,4.0
+REC0803,2026-10-18,Collections,AGT009,Afternoon,63,59,62,52,10.4,5,Present,41,3.6
+REC0804,2026-10-01,Collections,AGT014,Morning,47,45,44,39,6.3,4,Present,40,4.8
+REC0805,2026-10-08,Collections,AGT011,Afternoon,20,17,16,15,13.7,2,Present,36,3.6
+REC0806,2026-10-21,Technical Support,AGT004,Afternoon,30,28,29,24,9.9,2,Absent,41,3.9
+REC0807,2026-10-24,Collections,AGT022,Morning,48,38,47,44,4.9,1,Present,47,4.3
+REC0808,2026-10-30,Collections,AGT021,Morning,26,22,26,22,11.0,0,Present,35,2.9
+REC0809,2026-10-20,Sales Support,AGT003,Night,18,16,16,14,7.4,1,Present,48,4.3
+REC0810,2026-11-20,Collections,AGT028,Afternoon,63,60,61,56,13.5,1,Present,41,5.0
+REC0811,2026-11-17,Collections,AGT008,Night,37,29,33,28,10.4,4,Present,41,4.6
+REC0812,2026-10-28,Technical Support,AGT022,Morning,58,51,54,46,8.3,3,Present,50,4.3
+REC0813,2026-11-17,Customer Service,AGT013,Night,60,52,59,54,9.7,5,Present,45,4.7
+REC0814,2026-10-31,Technical Support,AGT016,Night,30,28,30,29,8.8,4,Absent,40,4.5
+REC0815,2026-11-15,Sales Support,AGT025,Night,35,29,30,29,10.1,3,Late,36,3.5
+REC0816,2026-09-27,Technical Support,AGT028,Morning,37,31,35,34,5.1,4,Present,37,4.8
+REC0817,2026-10-08,Sales Support,AGT027,Afternoon,38,31,35,31,5.7,5,Present,47,2.9
+REC0818,2026-10-14,Customer Service,AGT027,Afternoon,50,48,49,45,9.6,0,Present,47,4.1
+REC0819,2026-11-07,Customer Service,AGT016,Night,57,49,54,47,5.5,7,Present,47,3.5
+REC0820,2026-10-30,Customer Service,AGT016,Morning,59,48,54,47,8.5,0,Present,39,4.7
+REC0821,2026-10-31,Customer Service,AGT014,Afternoon,39,37,36,35,6.9,0,Present,47,2.9
+REC0822,2026-10-18,Sales Support,AGT003,Morning,49,42,48,40,11.5,0,Present,45,3.8
+REC0823,2026-10-15,Sales Support,AGT019,Night,50,45,50,43,7.6,5,Present,44,4.3
+REC0824,2026-11-11,Sales Support,AGT021,Morning,29,24,26,22,10.0,0,Present,36,3.8
+REC0825,2026-09-27,Collections,AGT017,Morning,51,43,49,41,8.6,2,Present,44,4.6
+REC0826,2026-11-15,Customer Service,AGT026,Night,27,25,27,26,10.1,3,Present,50,3.0
+REC0827,2026-10-09,Sales Support,AGT030,Morning,50,41,46,42,10.8,2,Present,38,3.4
+REC0828,2026-11-03,Collections,AGT022,Morning,29,25,24,22,13.4,3,Present,43,4.9
+REC0829,2026-11-16,Customer Service,AGT001,Afternoon,30,29,29,24,5.4,1,Present,36,4.2
+REC0830,2026-11-17,Technical Support,AGT012,Night,39,34,37,37,9.7,4,Present,43,2.9
+REC0831,2026-10-31,Technical Support,AGT003,Night,55,43,53,51,10.9,7,Present,41,4.8
+REC0832,2026-10-21,Sales Support,AGT024,Night,20,19,20,17,4.2,0,Present,47,3.7
+REC0833,2026-11-04,Sales Support,AGT009,Afternoon,33,28,31,28,10.5,1,Present,45,4.6
+REC0834,2026-10-30,Technical Support,AGT010,Night,28,26,27,24,12.2,3,Present,42,3.7
+REC0835,2026-11-01,Technical Support,AGT011,Morning,31,27,27,25,7.2,1,Present,41,2.9
+REC0836,2026-11-22,Sales Support,AGT010,Night,30,28,29,26,12.3,1,Present,40,4.9
+REC0837,2026-11-20,Customer Service,AGT021,Night,27,21,25,23,4.1,3,Present,46,4.5
+REC0838,2026-11-01,Sales Support,AGT014,Morning,58,54,56,55,9.3,3,Present,48,3.8
+REC0839,2026-11-23,Technical Support,AGT007,Morning,21,19,18,16,12.6,1,Present,44,3.0
+REC0840,2026-10-09,Technical Support,AGT004,Afternoon,34,33,32,31,10.0,4,Present,50,4.6
+REC0841,2026-10-08,Technical Support,AGT004,Night,57,52,54,49,12.7,6,Present,43,2.9
+REC0842,2026-11-19,Collections,AGT008,Morning,22,21,19,17,12.9,0,Late,35,3.8
+REC0843,2026-10-14,Technical Support,AGT018,Morning,34,29,30,28,12.2,1,Present,35,3.0
+REC0844,2026-10-01,Customer Service,AGT029,Afternoon,40,36,39,37,11.6,3,Present,42,3.1
+REC0845,2026-11-11,Technical Support,AGT008,Afternoon,39,34,37,32,6.4,2,Present,44,3.7
+REC0846,2026-11-15,Technical Support,AGT020,Morning,18,16,18,17,8.6,0,Present,49,3.6
+REC0847,2026-11-05,Sales Support,AGT008,Afternoon,59,55,56,47,9.8,6,Present,49,3.8
+REC0848,2026-11-11,Technical Support,AGT029,Morning,61,57,61,56,4.7,5,Absent,42,5.0
+REC0849,2026-10-12,Customer Service,AGT027,Night,65,58,64,55,7.7,2,Present,46,2.9
+REC0850,2026-09-27,Collections,AGT028,Afternoon,38,35,34,31,10.1,3,Present,48,3.1
+REC0851,2026-10-07,Technical Support,AGT029,Morning,46,37,42,41,7.0,1,Present,42,2.8
+REC0852,2026-10-12,Technical Support,AGT022,Night,20,19,16,15,7.9,1,Present,42,4.9
+REC0853,2026-10-26,Sales Support,AGT001,Night,31,29,28,25,8.6,3,Present,47,4.4
+REC0854,2026-11-05,Technical Support,AGT006,Night,44,37,43,37,6.1,3,Present,40,4.6
+REC0855,2026-10-27,Collections,AGT012,Afternoon,49,39,48,45,11.7,4,Present,49,3.4
+REC0856,2026-11-08,Collections,AGT010,Night,52,45,52,47,11.4,2,Present,47,4.2
+REC0857,2026-10-28,Collections,AGT010,Morning,36,31,31,26,11.3,4,Present,44,3.4
+REC0858,2026-09-26,Technical Support,AGT018,Morning,56,49,55,49,6.0,6,Present,43,4.3
+REC0859,2026-11-22,Collections,AGT004,Night,35,30,32,26,12.6,1,Present,45,3.7
+REC0860,2026-10-07,Customer Service,AGT028,Night,38,34,34,33,7.3,2,Present,37,3.4
+REC0861,2026-11-21,Collections,AGT001,Afternoon,35,31,32,27,6.4,3,Present,41,3.8
+REC0862,2026-10-12,Technical Support,AGT008,Afternoon,51,49,49,46,12.1,4,Present,46,3.1
+REC0863,2026-10-10,Technical Support,AGT022,Afternoon,50,45,47,46,5.6,3,Present,36,4.1
+REC0864,2026-10-21,Customer Service,AGT012,Night,54,48,53,51,9.1,3,Present,43,4.8
+REC0865,2026-10-17,Sales Support,AGT016,Morning,53,47,49,43,7.1,0,Present,43,4.2
+REC0866,2026-10-31,Technical Support,AGT007,Afternoon,20,18,17,14,9.1,1,Present,39,3.5
+REC0867,2026-09-27,Sales Support,AGT009,Night,32,27,27,22,4.7,3,Present,42,4.8
+REC0868,2026-10-20,Customer Service,AGT022,Night,49,44,45,39,9.9,4,Present,43,3.5
+REC0869,2026-10-13,Technical Support,AGT028,Morning,29,26,29,25,4.1,1,Present,46,4.5
+REC0870,2026-11-15,Collections,AGT021,Afternoon,35,32,32,28,10.1,1,Present,39,3.3
+REC0871,2026-09-30,Technical Support,AGT021,Morning,57,50,54,52,6.3,2,Present,36,4.2
+REC0872,2026-10-24,Sales Support,AGT020,Afternoon,34,30,34,33,5.2,1,Present,38,3.1
+REC0873,2026-11-20,Customer Service,AGT022,Afternoon,41,39,39,35,7.8,4,Present,44,4.5
+REC0874,2026-10-25,Sales Support,AGT003,Afternoon,19,17,17,14,6.9,0,Present,50,4.9
+REC0875,2026-10-02,Collections,AGT024,Afternoon,19,17,18,16,12.4,1,Present,44,4.1
+REC0876,2026-11-21,Sales Support,AGT012,Night,37,32,37,36,8.3,4,Present,44,3.1
+REC0877,2026-10-01,Customer Service,AGT002,Night,38,35,34,30,7.1,2,Present,40,2.9
+REC0878,2026-10-25,Technical Support,AGT007,Morning,51,48,48,46,13.2,6,Present,42,4.4
+REC0879,2026-11-12,Customer Service,AGT017,Morning,39,33,36,34,12.3,4,Present,41,3.0
+REC0880,2026-09-30,Customer Service,AGT002,Morning,32,27,31,27,6.3,2,Absent,39,4.3
+REC0881,2026-10-31,Collections,AGT018,Afternoon,44,36,44,41,10.7,2,Present,37,4.7
+REC0882,2026-10-08,Sales Support,AGT004,Night,24,19,19,18,9.3,2,Absent,37,4.6
+REC0883,2026-10-08,Sales Support,AGT023,Afternoon,27,26,27,27,10.9,0,Present,38,3.3
+REC0884,2026-10-05,Technical Support,AGT003,Morning,51,42,47,42,7.4,2,Present,42,4.1
+REC0885,2026-10-18,Customer Service,AGT014,Morning,27,24,24,22,5.9,0,Present,46,4.6
+REC0886,2026-11-16,Customer Service,AGT030,Afternoon,35,31,32,30,12.8,4,Present,48,3.9
+REC0887,2026-11-23,Technical Support,AGT030,Morning,43,36,41,38,5.9,0,Absent,42,3.3
+REC0888,2026-10-24,Collections,AGT013,Night,26,22,23,19,12.3,3,Present,39,4.5
+REC0889,2026-11-04,Collections,AGT010,Night,41,37,37,36,13.4,2,Present,39,5.0
+REC0890,2026-11-23,,AGT004,Afternoon,31,26,26,23,5.4,3,Late,35,2.8
+REC0891,2026-10-30,Customer Service,AGT009,Morning,22,20,19,18,13.2,0,Present,50,3.8
+REC0892,2026-10-06,Technical Support,AGT012,Morning,26,25,23,19,7.5,1,Present,46,4.3
+REC0893,2026-10-21,Technical Support,AGT021,Night,30,25,27,26,6.4,1,Present,36,3.9
+REC0894,2026-11-17,Collections,AGT020,Night,34,29,32,28,10.4,4,Present,43,3.0
+REC0895,2026-09-26,Collections,AGT009,Morning,18,16,18,17,13.4,0,Present,36,2.9
+REC0896,2026-10-11,Collections,AGT008,Night,53,41,51,48,8.8,6,Present,39,4.5
+REC0897,2026-11-17,Sales Support,AGT028,Night,39,35,39,35,10.6,4,Present,35,3.2
+REC0898,2026-10-20,Technical Support,AGT021,Morning,46,40,41,40,9.1,4,Present,43,4.0
+REC0899,2026-10-29,Sales Support,AGT022,Night,44,42,39,34,10.4,2,Present,47,4.6
+REC0900,2026-10-11,Collections,AGT010,Night,22,20,22,20,8.4,2,Present,37,3.4
+REC0901,2026-09-29,Collections,AGT006,Afternoon,60,51,57,55,7.2,0,Present,39,3.3
+REC0902,2026-09-25,Collections,AGT015,Morning,60,59,60,59,10.5,3,Present,45,3.0
+REC0903,2026-11-01,Customer Service,AGT010,Afternoon,44,42,39,33,7.8,2,Absent,41,4.9
+REC0904,2026-10-15,Technical Support,AGT026,Morning,28,27,26,24,11.5,3,Present,41,4.4
+REC0905,2026-10-28,Customer Service,AGT018,Afternoon,46,37,43,42,14.0,5,Present,45,3.7
+REC0906,2026-10-14,Customer Service,AGT026,Afternoon,48,46,48,47,6.9,0,Present,37,2.9
+REC0907,2026-10-18,Customer Service,AGT023,Afternoon,30,29,30,29,7.3,0,Present,36,4.8
+REC0908,2026-11-16,Technical Support,AGT017,Afternoon,52,44,48,41,6.6,5,Late,45,3.6
+REC0909,2026-11-23,Collections,AGT012,Night,55,47,54,47,13.5,6,Present,36,2.9
+REC0910,2026-09-26,Sales Support,AGT005,Morning,23,20,21,19,11.3,2,Present,46,4.3
+REC0911,2026-11-03,Technical Support,AGT027,Night,42,40,38,37,10.0,0,Present,48,3.3
+REC0912,2026-09-29,Collections,AGT010,Morning,47,37,46,39,5.3,3,Present,36,3.6
+REC0913,2026-11-23,Collections,AGT018,Afternoon,64,55,62,54,11.8,1,Present,50,3.8
+REC0914,2026-11-02,Customer Service,AGT029,Afternoon,26,24,22,20,5.2,0,Present,41,3.8
+REC0915,2026-11-14,Sales Support,AGT008,Afternoon,61,52,58,51,4.3,6,Present,38,3.5
+REC0916,2026-10-21,Technical Support,AGT009,Night,18,15,13,13,9.3,2,Present,44,3.9
+REC0917,2026-11-13,Technical Support,AGT014,Afternoon,41,32,38,35,11.6,1,Present,40,4.6
+REC0918,2026-10-01,Collections,AGT015,Morning,64,58,63,62,5.1,0,Present,36,3.2
+REC0919,2026-10-05,Customer Service,AGT012,Morning,31,26,26,24,5.2,1,Present,40,4.8
+REC0920,2026-11-20,Collections,AGT022,Night,39,36,34,33,13.7,5,Present,48,3.5
+REC0921,2026-10-09,Technical Support,AGT022,Night,18,16,13,12,10.9,2,Absent,46,4.4
+REC0922,2026-10-24,Technical Support,AGT026,Morning,26,23,23,20,6.3,3,Present,45,4.4
+REC0923,2026-10-04,Collections,AGT024,Afternoon,47,41,43,40,5.0,6,Present,40,3.9
+REC0924,2026-10-03,Technical Support,AGT015,Night,26,23,24,20,8.1,3,Absent,37,3.4
+REC0925,2026-10-25,Technical Support,AGT007,Morning,32,26,31,29,13.9,1,Present,40,4.4
+REC0926,2026-11-05,Sales Support,AGT011,Afternoon,35,33,32,29,6.5,0,Present,42,3.7
+REC0927,2026-11-18,Customer Service,AGT012,Night,60,58,57,50,5.3,1,Present,49,2.9
+REC0928,2026-10-28,Technical Support,AGT020,Afternoon,49,43,44,40,5.2,4,Present,46,3.3
+REC0929,2026-10-24,Technical Support,AGT004,Morning,28,25,23,22,13.2,2,Present,41,4.1
+REC0930,2026-11-06,Customer Service,AGT007,Morning,44,42,40,39,11.4,4,Present,37,3.6
+REC0931,2026-10-20,Collections,AGT023,Afternoon,42,37,42,38,11.6,4,Present,40,3.6
+REC0932,2026-11-07,Collections,AGT030,Night,31,25,31,26,9.0,4,Present,38,2.9
+REC0933,2026-09-25,Technical Support,AGT025,Morning,48,43,46,40,4.4,0,Present,37,4.7
+REC0934,2026-10-01,Technical Support,AGT007,Morning,31,30,29,27,6.7,0,Present,42,3.1
+REC0935,2026-10-10,Sales Support,AGT027,Night,24,19,21,17,5.9,2,Present,42,3.7
+REC0936,2026-10-16,Technical Support,AGT027,Night,50,40,49,43,10.3,4,Present,44,4.3
+REC0937,2026-11-03,Sales Support,AGT028,Afternoon,46,37,43,40,8.3,6,Present,38,4.6
+REC0938,2026-10-29,Collections,AGT003,Night,36,30,32,30,13.2,2,Present,41,3.4
+REC0939,2026-11-17,Collections,AGT023,Night,32,31,31,28,4.9,0,Present,50,4.7
+REC0940,2026-10-17,Technical Support,AGT020,Afternoon,31,28,29,24,13.4,4,Present,47,3.2
+REC0941,2026-10-04,Sales Support,AGT027,Afternoon,60,49,56,53,7.0,2,Present,49,4.5
+REC0942,2026-11-04,Technical Support,AGT025,Afternoon,63,61,60,53,7.2,3,Present,38,4.3
+REC0943,2026-10-27,Sales Support,AGT023,Night,44,37,42,37,13.4,2,Present,42,4.4
+REC0944,2026-10-12,Customer Service,AGT023,Night,38,34,35,34,6.5,2,Present,45,4.2
+REC0945,2026-11-17,Sales Support,AGT007,Afternoon,54,43,50,49,12.5,3,Present,38,3.0
+REC0946,2026-10-06,Customer Service,AGT008,Afternoon,41,40,38,32,7.2,1,Present,35,3.2
+REC0947,2026-10-20,Collections,AGT021,Morning,22,20,20,18,5.3,0,Present,37,4.7
+REC0948,2026-11-08,Collections,AGT012,Morning,43,41,42,37,7.0,2,Present,47,3.5
+REC0949,2026-11-16,Sales Support,AGT026,Afternoon,31,28,29,27,4.4,2,Present,38,2.9
+REC0950,2026-11-16,Collections,AGT017,Morning,53,50,49,46,8.4,6,Present,42,3.5
+REC0951,2026-10-19,Customer Service,AGT017,Morning,28,23,28,27,9.7,1,Present,38,4.6
+REC0952,2026-09-26,Collections,AGT020,Afternoon,45,36,44,42,13.7,5,Present,46,3.3
+REC0953,2026-10-04,Customer Service,AGT018,Morning,35,30,30,26,11.5,2,Present,41,3.9
+REC0954,2026-11-18,Technical Support,AGT030,Night,47,43,42,37,9.0,2,Present,36,4.5
+REC0955,2026-10-03,Customer Service,AGT017,Night,62,50,59,49,8.7,2,Present,45,3.6
+REC0956,2026-11-03,Customer Service,AGT024,Morning,35,28,35,31,6.4,4,Present,50,3.3
+REC0957,2026-10-10,Customer Service,AGT005,Morning,42,39,37,34,8.0,1,Present,36,4.4
+REC0958,2026-10-27,Technical Support,AGT013,Night,36,30,31,27,6.9,3,Present,43,4.9
+REC0959,2026-09-28,Sales Support,AGT028,Afternoon,23,22,18,18,11.3,0,Present,35,3.1
+REC0960,2026-10-27,Collections,AGT009,Morning,45,37,45,41,7.1,4,Present,45,3.1
+REC0961,2026-11-15,Customer Service,AGT023,Night,41,35,41,39,7.2,1,Present,48,3.5
+REC0962,2026-10-30,Customer Service,AGT025,Morning,24,19,20,17,7.1,3,Present,50,3.6
+REC0963,2026-09-25,Technical Support,AGT017,Afternoon,36,31,36,32,5.2,0,Present,47,3.6
+REC0964,2026-11-18,Sales Support,AGT024,Night,32,26,30,28,4.8,4,Present,48,2.9
+REC0965,2026-10-28,Technical Support,AGT018,Morning,39,34,36,32,12.8,0,Present,43,4.8
+REC0966,2026-09-30,Technical Support,AGT018,Night,34,29,32,28,12.7,2,Present,44,3.9
+REC0967,2026-11-16,Technical Support,AGT007,Afternoon,23,20,23,22,11.5,0,Present,44,4.8
+REC0968,2026-11-03,Technical Support,AGT013,Morning,33,32,28,25,8.8,1,Present,45,3.0
+REC0969,2026-11-09,Customer Service,AGT027,Night,38,32,38,38,4.3,1,Present,40,3.9
+REC0970,2026-10-24,Customer Service,AGT020,Morning,36,31,31,28,12.6,4,Present,39,3.2
+REC0971,2026-11-04,Collections,AGT023,Morning,61,54,61,51,8.7,5,Present,44,4.4
+REC0972,2026-10-12,Technical Support,AGT014,Afternoon,63,60,58,48,6.4,3,Present,38,4.8
+REC0973,2026-10-28,Technical Support,AGT020,Morning,24,19,23,20,5.0,0,Present,38,4.8
+REC0974,2026-11-16,Collections,AGT006,Morning,28,27,28,25,13.8,3,Present,39,3.6
+REC0975,2026-11-21,Collections,AGT018,Afternoon,26,23,26,22,8.5,3,Present,37,2.9
+REC0976,2026-10-13,Sales Support,AGT010,Afternoon,47,38,42,36,6.3,3,Present,39,4.3
+REC0977,2026-11-21,Technical Support,AGT001,Night,31,29,30,29,10.8,1,Present,50,4.8
+REC0978,2026-10-06,Technical Support,AGT028,Night,40,34,38,38,8.3,0,Present,44,4.9
+REC0979,2026-11-23,Customer Service,AGT001,Afternoon,47,38,43,42,5.9,4,Present,43,3.8
+REC0980,2026-09-27,Customer Service,AGT008,Morning,34,32,34,33,7.6,4,Present,48,4.9
+REC0981,2026-10-03,Sales Support,AGT027,Night,47,42,42,36,11.0,6,Present,39,3.4
+REC0982,2026-10-22,Collections,AGT004,Afternoon,42,41,37,31,5.5,0,Present,35,2.9
+REC0983,2026-11-21,Sales Support,AGT022,Night,44,39,44,38,9.0,2,Present,47,4.9
+REC0984,2026-10-17,Collections,AGT028,Morning,65,63,62,61,13.8,6,Present,44,3.8
+REC0985,2026-10-03,Collections,AGT005,Afternoon,28,26,27,27,9.7,0,Present,42,3.8
+REC0986,2026-11-19,Customer Service,AGT003,Night,54,47,52,43,5.0,6,Present,41,2.8
+REC0987,2026-10-16,Sales Support,AGT022,Afternoon,45,40,40,34,11.8,2,Present,47,3.6
+REC0988,2026-10-14,Customer Service,AGT027,Night,47,40,43,40,8.0,6,Present,46,4.9
+REC0989,2026-10-28,Technical Support,AGT021,Afternoon,40,38,37,31,6.4,5,Present,37,4.6
+REC0990,2026-10-12,Collections,AGT026,Morning,30,24,28,26,10.3,1,Present,41,3.7
+REC0991,2026-10-04,Sales Support,AGT026,Night,54,52,54,48,7.4,1,Present,36,4.3
+REC0992,2026-11-13,Sales Support,AGT011,Afternoon,24,22,22,18,5.0,0,Present,42,4.6
+REC0993,2026-11-05,Sales Support,AGT011,Afternoon,33,29,29,26,12.7,0,Present,39,2.8
+REC0994,2026-11-05,Customer Service,AGT028,Afternoon,28,25,25,23,9.1,0,Present,50,4.4
+REC0995,2026-10-29,Collections,AGT021,Morning,19,17,16,14,4.8,0,Present,41,3.2
+REC0996,2026-11-12,Technical Support,AGT030,Morning,37,36,37,35,4.1,1,Present,42,4.8
+REC0997,2026-10-02,Sales Support,AGT016,Night,32,31,31,28,11.0,0,Present,49,4.0
+REC0998,2026-10-15,Technical Support,AGT017,Night,29,26,24,24,6.6,0,Present,43,4.8
+REC0999,2026-11-19,Collections,AGT029,Morning,50,44,47,39,6.0,3,Present,39,3.5
+REC1000,2026-10-20,Collections,AGT008,Afternoon,59,49,54,52,12.6,3,Present,43,3.9
+REC0026,2026-10-07,Sales Support,AGT003,Afternoon,18,15,16,14,11.4,1,Present,43,4.4
+REC0076,2026-10-02,Sales Support,AGT017,Afternoon,31,25,27,23,5.0,4,Present,50,5.0
+REC0126,2026-10-14,Customer Service,AGT010,Afternoon,18,17,15,14,13.7,1,Present,43,3.7
+REC0176,2026-11-21,Collections,AGT003,Afternoon,65,59,63,54,5.5,7,Present,47,2.9
+REC0226,2026-10-03,Sales Support,AGT022,Morning,62,52,62,54,6.6,1,Present,41,3.9
+REC0276,2026-10-24,Collections,AGT016,Afternoon,37,30,32,28,12.9,3,Present,37,4.2
+REC0326,2026-09-28,Customer Service,AGT013,Morning,55,50,50,44,13.6,1,Absent,45,3.7
+REC0376,2026-09-30,Customer Service,AGT029,Night,22,20,17,15,8.9,0,Present,45,4.9
+REC0426,2026-10-27,Collections,AGT001,Morning,59,48,54,46,12.4,7,Present,45,3.2
+REC0476,2026-10-09,Collections,AGT022,Afternoon,40,32,37,31,11.6,3,Present,47,3.4
+REC0526,2026-11-11,Technical Support,AGT018,Night,52,49,47,40,11.9,3,Present,50,4.9
+REC0576,2026-11-03,Customer Service,AGT011,Morning,50,49,45,43,12.5,0,Present,40,3.5
